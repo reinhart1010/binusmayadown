@@ -7,8 +7,18 @@ sites:
     url: https://binusmaya.binus.ac.id
   - name: BINUSMAYA (Learning Management System)
     url: https://newbinusmaya.binus.ac.id
-  - name: BINUS Mobile
+  - name: BINUS Mobile (Server 1)
+    url: https://mobileapi.apps.binus.edu
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: BINUS Mobile (Server 2)
     url: https://mobileapi2.apps.binus.edu
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: BINUSMAYA Exam
     url: https://exam.apps.binus.ac.id
   - name: BINUSMAYA Myclass

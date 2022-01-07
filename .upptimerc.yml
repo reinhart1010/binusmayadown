@@ -4,7 +4,7 @@ repo: binusmayadown # The name of this repository
 
 sites:
   - name: BINUSMAYA (Academic Services)
-    url: https://binusmaya.binus.ac.id
+    url: https://binusmaya.binus.ac.id/LoginAD.php
   - name: BINUSMAYA (Learning Management System)
     url: https://newbinusmaya.binus.ac.id
   - name: BINUS Mobile (Server 1)

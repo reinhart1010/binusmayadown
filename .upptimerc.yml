@@ -38,7 +38,11 @@ sites:
   - name: SLC Remote Lab (rlab.binus.ac.id)
     url: https://rlab.apps.binus.ac.id/
   - name: BINUS CX (Class eXtension)
-    url: https://cx.apps.binus.ac.id
+    url: http://cx.apps.binus.ac.id
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
   - name: GreatNusa.com
     url: https://greatnusa.com
   - name: BINUS Entrepreneurship (BEC) Apps

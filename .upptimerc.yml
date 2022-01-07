@@ -63,7 +63,7 @@ status-website:
   introMessage: |
     Di sini Anda bisa memonitor apakah para server di balik ["Semesta Aplikasi BINUS"](https://newbinusmaya.binus.ac.id) sedang down atau tidak. Situs ini tidak terafiliasi, terasosiasi, atau terhubung dalam bentuk apapun dengan [Universitas BINA NUSANTARA](https://binus.ac.id) dan [Yayasan Pendidikan BINA NUSANTARA](https://binus.edu).
     <br><br>
-    **&copy; 2022 [Reinhart Previano Koentjoro](https://reinhart1010.id).** Anda kini bisa mendukung saya untuk membayar biaya operasional untuk situs ini dan [BINUSToday](https://binustoday.reinhart1010.id) melalui [Karyakarsa](https://karyakarsa.id/reinhart1010), [Saweria](https://saweria.com/reinhart1010), dan [Trakteer](https://trakteer.id/reinhart1010).
+    <b>&copy; 2022 [Reinhart Previano Koentjoro](https://reinhart1010.id).</b> Anda kini bisa mendukung saya untuk membayar biaya operasional untuk situs ini dan [BINUSToday](https://binustoday.reinhart1010.id) melalui [Karyakarsa](https://karyakarsa.id/reinhart1010), [Saweria](https://saweria.com/reinhart1010), dan [Trakteer](https://trakteer.id/reinhart1010).
   navbar:
     - title: Status
       href: /

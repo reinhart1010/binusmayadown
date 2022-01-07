@@ -1,26 +1,61 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: reinhart1010 # Your GitHub organization or username, where this repository lives
+repo: binusmayadown # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: BINUSMAYA (Academic Services)
+    url: https://binusmaya.binus.ac.id
+  - name: BINUSMAYA (Learning Management System)
+    url: https://newbinusmaya.binus.ac.id
+  - name: BINUS Mobile
+    url: https://mobileapi2.apps.binus.edu
+  - name: BINUSMAYA Exam
+    url: https://exam.apps.binus.ac.id
+  - name: BINUSMAYA Myclass
+    url: https://myclass.apps.binus.ac.id
+  - name: BINUSMAYA CDN (newcontent.binus.ac.id)
+    url: https://newcontent.binus.ac.id
+  - name: Course Enrollment and Registration (bcs.binus.ac.id)
+    url: https://bcs.binus.ac.id
+  - name: BINUSMAYA Praktikum (SLC Bluejack)
+    url: https://bluejack.binus.ac.id/binusmayalab/
+  - name: SLC Laboratory (laboratory.binus.ac.id)
+    url: https://laboratory.binus.ac.id/lab
+  - name: SLC Remote Lab (rlab.binus.ac.id)
+    url: https://rlab.apps.binus.ac.id/
+  - name: BINUS CX (Class eXtension)
+    url: https://cx.apps.binus.ac.id
+  - name: GreatNusa.com
+    url: https://greatnusa.com
+  - name: BINUS Entrepreneurship (BEC) Apps
+    url: https://entrepreneurship.apps.binus.ac.id
+  - name: Enrichment Apps
+    url: https://enrichment.apps.binus.ac.id
+  - name: Internship Apps
+    url: https://internship.apps.binus.ac.id
+  - name: Apple Developer Academy Apps
+    url: https://developeracademy.apps.binus.ac.id
+  - name: Research Apps
+    url: https://research.apps.binus.ac.id
+  - name: BINUS Career
+    url: https://binuscareer.com
+  - name: BINUS Integrated Survey Reporting Application (ISRA) (qmc.apps.binus.ac.id)
+    url: https://qmc.apps.binus.ac.id/isra
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: binusmayadown.reinhart1010.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BINUSMAYA Down
+  introTitle: "***World Class University* pun bisa down.** Kalau kamu?"
+  introMessage: |
+    Di sini Anda bisa memonitor apakah para server di balik ["Semesta Aplikasi BINUS"](https://newbinusmaya.binus.ac.id) sedang down atau tidak. Situs ini dibuat menggunakan [Upptime](https://upptime.js.org) dan data historikal dapat diakses di https://github.com/reinhart1010/binusmayadown.
+    
+    Hak Cipta &copy; 2022 [Reinhart Previano Koentjoro](https://reinhart1010.id). Situs ini tidak terafiliasi, terasosiasi, atau terhubung dalam bentuk apapun dengan [Universitas BINA NUSANTARA](https://binus.ac.id) dan [Yayasan Pendidikan BINA NUSANTARA](https://binus.edu).
+    
+    **Baru:** Anda kini bisa mendukung saya untuk membayar biaya operasional untuk situs ini dan [BINUSToday](https://binustoday.reinhart1010.id) via [Karyakarsa](https://karyakarsa.id/reinhart1010), [Saweria](https://saweria.com/reinhart1010), dan [Trakteer](https://trakteer.id/reinhart1010).
   navbar:
     - title: Status
       href: /

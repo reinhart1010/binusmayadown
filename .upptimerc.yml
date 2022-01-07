@@ -16,7 +16,7 @@ sites:
   - name: BINUSMAYA CDN (newcontent.binus.ac.id)
     url: https://newcontent.binus.ac.id
   - name: Course Enrollment and Registration (bcs.binus.ac.id)
-    url: https://bcs.binus.ac.id
+    url: http://bcs.binus.ac.id
   - name: BINUSMAYA Praktikum (SLC Bluejack)
     url: https://bluejack.binus.ac.id/binusmayalab/
   - name: SLC Laboratory (laboratory.binus.ac.id)

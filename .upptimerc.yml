@@ -29,6 +29,12 @@ sites:
       - 200
       - 201
       - 403
+  - name: BINUSMAYA CDN (bm5cdn.azureedge.net)
+    url: https://bm5cdn.azureedge.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
   - name: Course Enrollment and Registration (bcs.binus.ac.id)
     url: http://bcs.binus.ac.id
   - name: BINUSMAYA Praktikum (SLC Bluejack)
@@ -67,7 +73,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BINUSMAYA Down
-  introTitle: "***World Class University* pun bisa down.** Kalau kamu?"
+  introTitle: "**World Class University pun bisa down.** Kalau kamu?"
   introMessage: |
     Di sini Anda bisa memonitor apakah para server di balik ["Semesta Aplikasi BINUS"](https://newbinusmaya.binus.ac.id) sedang down atau tidak. Situs ini tidak terafiliasi, terasosiasi, atau terhubung dalam bentuk apapun dengan [Universitas BINA NUSANTARA](https://binus.ac.id) dan [Yayasan Pendidikan BINA NUSANTARA](https://binus.edu).
     <br><br>

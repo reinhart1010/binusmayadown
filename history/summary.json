@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-11": 701,
+      "2022-01-11": 710,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
@@ -253,19 +253,19 @@
     "url": "https://greatnusa.com",
     "icon": "https://favicons.githubusercontent.com/greatnusa.com",
     "slug": "great-nusa-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2384,
-    "timeDay": 2326,
-    "timeWeek": 2384,
-    "timeMonth": 2384,
-    "timeYear": 2384,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 2382,
+    "timeDay": 2345,
+    "timeWeek": 2382,
+    "timeMonth": 2382,
+    "timeYear": 2382,
     "dailyMinutesDown": {
-      "2022-01-11": 0
+      "2022-01-11": 8
     }
   },
   {

@@ -191,18 +191,19 @@
     "icon": "https://favicons.githubusercontent.com/bluejack.binus.ac.id",
     "slug": "binusmaya-praktikum-slc-bluejack",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1279,
     "timeDay": 1145,
     "timeWeek": 1274,
     "timeMonth": 1279,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2022-01-27": 1
+      "2022-01-28": 37,
+      "2022-01-27": 18
     }
   },
   {
@@ -211,18 +212,19 @@
     "icon": "https://favicons.githubusercontent.com/laboratory.binus.ac.id",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1549,
     "timeDay": 1356,
     "timeWeek": 1542,
     "timeMonth": 1549,
     "timeYear": 1549,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-28": 37,
+      "2022-01-27": 17
     }
   },
   {

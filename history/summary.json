@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/binusmaya.binus.ac.id",
     "slug": "binusmaya-academic-services",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "98.61%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 972,
     "timeDay": 984,
     "timeWeek": 958,
@@ -89,18 +89,18 @@
     "icon": "https://favicons.githubusercontent.com/mobileapi.apps.binus.edu",
     "slug": "binus-mobile-server-1",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.76%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.76%",
     "time": 1127,
     "timeDay": 961,
     "timeWeek": 1001,
     "timeMonth": 1243,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2022-03-07": 41,
+      "2022-03-07": 27,
       "2022-03-04": 46,
       "2022-02-24": 36,
       "2022-02-23": 7,
@@ -115,19 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/mobileapi2.apps.binus.edu",
     "slug": "binus-mobile-server-2",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1092,
     "timeDay": 906,
     "timeWeek": 980,
     "timeMonth": 1180,
     "timeYear": 1092,
-    "dailyMinutesDown": {
-      "2022-03-07": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BINUSMAYA Exam",
@@ -152,19 +150,19 @@
     "url": "https://myclass.apps.binus.ac.id",
     "icon": "https://favicons.githubusercontent.com/myclass.apps.binus.ac.id",
     "slug": "binusmaya-myclass",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.90%",
     "time": 1201,
     "timeDay": 1033,
     "timeWeek": 973,
     "timeMonth": 1162,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2022-03-07": 13,
+      "2022-03-07": 3,
       "2022-03-02": 84
     }
   },
@@ -264,18 +262,18 @@
     "icon": "https://favicons.githubusercontent.com/laboratory.binus.ac.id",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "down",
-    "uptime": "34.45%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.45%",
+    "uptimeYear": "34.43%",
     "time": 1262,
     "timeDay": 1003,
     "timeWeek": 1004,
     "timeMonth": 995,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2022-03-07": 1148,
+      "2022-03-07": 1183,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
@@ -322,18 +320,20 @@
     "url": "https://rlab.apps.binus.ac.id/",
     "icon": "https://favicons.githubusercontent.com/rlab.apps.binus.ac.id",
     "slug": "slc-remote-lab-rlab-binus-ac-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1385,
     "timeDay": 1316,
     "timeWeek": 1290,
     "timeMonth": 1534,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 2
+    }
   },
   {
     "name": "GreatNusa.com",
@@ -358,10 +358,10 @@
     "url": "https://entrepreneurship.apps.binus.ac.id",
     "icon": "https://favicons.githubusercontent.com/entrepreneurship.apps.binus.ac.id",
     "slug": "binus-entrepreneurship-bec-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1244,
@@ -369,7 +369,9 @@
     "timeWeek": 1267,
     "timeMonth": 1235,
     "timeYear": 1244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 2
+    }
   },
   {
     "name": "Enrichment Apps",
@@ -437,10 +439,10 @@
     "url": "https://research.apps.binus.ac.id",
     "icon": "https://favicons.githubusercontent.com/research.apps.binus.ac.id",
     "slug": "research-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1278,
@@ -448,17 +450,19 @@
     "timeWeek": 1230,
     "timeMonth": 1218,
     "timeYear": 1278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "BINUS Career",
     "url": "https://binuscareer.com",
     "icon": "https://favicons.githubusercontent.com/binuscareer.com",
     "slug": "binus-career",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.74%",
     "time": 2073,
@@ -467,6 +471,7 @@
     "timeMonth": 2075,
     "timeYear": 2073,
     "dailyMinutesDown": {
+      "2022-03-07": 1,
       "2022-02-15": 209,
       "2022-02-08": 15
     }
@@ -512,9 +517,9 @@
     "url": "https://qmcapi2.apps.binus.ac.id/isra/api",
     "icon": "https://favicons.githubusercontent.com/qmcapi2.apps.binus.ac.id",
     "slug": "binus-isra-api-server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -523,6 +528,8 @@
     "timeWeek": 726,
     "timeMonth": 742,
     "timeYear": 742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]

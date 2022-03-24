@@ -468,18 +468,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.binusian.org",
     "slug": "binusian-blog",
     "status": "down",
-    "uptime": "6.52%",
-    "uptimeDay": "6.52%",
-    "uptimeWeek": "6.52%",
-    "uptimeMonth": "6.52%",
-    "uptimeYear": "6.52%",
+    "uptime": "4.31%",
+    "uptimeDay": "4.31%",
+    "uptimeWeek": "4.31%",
+    "uptimeMonth": "4.31%",
+    "uptimeYear": "4.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-24": 0
+      "2022-03-24": 1
     }
   },
   {

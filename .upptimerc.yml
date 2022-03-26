@@ -37,6 +37,10 @@ sites:
       - 200
       - 201
       - 400
+  - name: Admission Online Frontend (AOF) 3 (BINUSIAN 2024 and below)
+    url: https://admissions.apps.binus.edu/admissions
+  - name: Admission Online Frontend (AOF) 4 (BINUSIAN 2025 and up)
+    url: https://newadmissions.apps.binus.edu/admissions
   - name: Course Enrollment and Registration (bcs.binus.ac.id)
     url: http://bcs.binus.ac.id
   - name: BINUSMAYA Praktikum (SLC Bluejack)
@@ -55,6 +59,8 @@ sites:
     url: https://entrepreneurship.apps.binus.ac.id
   - name: Enrichment Apps
     url: https://enrichment.apps.binus.ac.id
+  - name: Activity Enrichment Apps
+    url: https://activity-enrichment.apps.binus.ac.id
   - name: Internship Apps
     url: https://internship.apps.binus.ac.id
   - name: Apple Developer Academy Apps

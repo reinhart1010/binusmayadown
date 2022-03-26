@@ -55,6 +55,9 @@ sites:
     url: http://library.binus.ac.id
   - name: GreatNusa.com
     url: https://greatnusa.com
+  - name: BINUS CX (Class eXtension)
+    url: https://cx.apps.binus.ac.id
+    __dangerous__insecure: true
   - name: BINUS Entrepreneurship (BEC) Apps
     url: https://entrepreneurship.apps.binus.ac.id
   - name: Enrichment Apps

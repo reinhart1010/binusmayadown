@@ -21,6 +21,8 @@ sites:
       - 403
   - name: BINUSMAYA Exam
     url: https://exam.apps.binus.ac.id
+  - name: BINUSMAYA Exam - Multiple Choice
+    url: https://socs1.binus.ac.id/tcexam/public/code/index.php
   # - name: BINUSMAYA Myclass
   #   url: https://myclass.apps.binus.ac.id
   - name: BINUSMAYA CDN (newcontent.binus.ac.id)
@@ -43,6 +45,10 @@ sites:
     url: https://laboratory.binus.ac.id/lab
   - name: SLC Remote Lab (rlab.binus.ac.id)
     url: https://rlab.apps.binus.ac.id/
+  - name: Laboratory Borrowing (labfacility.apps.binus.ac.id)
+    url: https://labfacility.apps.binus.ac.id/
+  - name: Library and Knowledge Center (LKC)
+    url: http://library.binus.ac.id
   - name: GreatNusa.com
     url: https://greatnusa.com
   - name: BINUS Entrepreneurship (BEC) Apps
@@ -55,14 +61,24 @@ sites:
     url: https://developeracademy.apps.binus.ac.id
   - name: Research Apps
     url: https://research.apps.binus.ac.id
-  - name: BINUSIAN Blog
-    url: https://blog.binusian.org
-  - name: BINUS Youth Festival (BYFest)
-    url: https://student.binus.ac.id/byfest
-  - name: Vairbees (Virtual Expo)
-    url: https://vairbees.binus.edu
   - name: BINUS Career
     url: https://binuscareer.com
+  - name: BISANARA
+    url: https://bisanara.com
+  - name: School of Computer Science Competitive Programming Quiz
+    url: https://socs1.binus.ac.id/quiz/public/
+  - name: BINUSIAN Blog
+    url: http://blog.binusian.org
+  - name: BINUS Youth Festival (BYFest)
+    url: https://student.binus.ac.id/byfest
+  - name: Competitive Programming Competitions - Homepage
+    url: https://competition.binus.ac.id/portal/
+  - name: Competitive Programming Competitions - DOMJudge Instance
+    url: https://competition.binus.ac.id/contest/public
+  - name: Scribees
+    url: https://binus.ac.id/scribees/login/
+  - name: Vairbees (Virtual Expo)
+    url: https://vairbees.binus.edu
   - name: BINUS Integrated Survey Reporting Application (ISRA) (qmc.apps.binus.ac.id)
     url: https://qmc.apps.binus.ac.id/isra
   - name: BINUS ISRA API Server 1

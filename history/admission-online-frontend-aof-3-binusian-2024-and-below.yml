@@ -1,7 +1,7 @@
 url: https://admissions.apps.binus.edu/admissions
-status: down
-code: 500
-responseTime: 1275
-lastUpdated: 2022-04-11T23:15:49.096Z
+status: up
+code: 200
+responseTime: 8813
+lastUpdated: 2022-04-12T03:16:38.764Z
 startTime: Sat Mar 26 2022 17:23:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

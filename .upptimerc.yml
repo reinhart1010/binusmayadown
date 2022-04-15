@@ -88,6 +88,8 @@ sites:
     url: https://binus.ac.id/scribees/login/
   - name: Vairbees (Virtual Expo)
     url: https://vairbees.binus.edu
+  - name: BINUS Graduate Attribute Assessment Apps
+    url: https://bga.apps.binus.ac.id/
   - name: BINUS Integrated Survey Reporting Application (ISRA) (qmc.apps.binus.ac.id)
     url: https://qmc.apps.binus.ac.id/isra
   - name: BINUS ISRA API Server 1

@@ -322,11 +322,11 @@
     "icon": "https://favicons.githubusercontent.com/laboratory.binus.ac.id",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "up",
-    "uptime": "64.08%",
+    "uptime": "64.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "64.08%",
+    "uptimeYear": "64.09%",
     "time": 1399,
     "timeDay": 1153,
     "timeWeek": 1440,
@@ -437,18 +437,18 @@
     "icon": "https://favicons.githubusercontent.com/library.binus.ac.id",
     "slug": "library-and-knowledge-center-lkc",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.96%",
     "time": 3619,
     "timeDay": 3075,
     "timeWeek": 3679,
     "timeMonth": 3613,
     "timeYear": 3619,
     "dailyMinutesDown": {
-      "2022-05-17": 1,
+      "2022-05-17": 10,
       "2022-03-29": 17
     }
   },
@@ -719,10 +719,10 @@
     "url": "https://bisanara.com",
     "icon": "https://favicons.githubusercontent.com/bisanara.com",
     "slug": "bisanara",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4740,
@@ -730,7 +730,9 @@
     "timeWeek": 4896,
     "timeMonth": 4800,
     "timeYear": 4740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "School of Computer Science Competitive Programming Quiz",

@@ -1,7 +1,7 @@
 url: https://labfacility.apps.binus.ac.id/
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2022-05-19T23:17:20.497Z
+status: down
+code: 502
+responseTime: 12686
+lastUpdated: 2022-05-20T09:47:42.505Z
 startTime: Sat Mar 26 2022 12:07:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -89,19 +89,19 @@
     "url": "https://newbinusmaya.binus.ac.id",
     "icon": "https://favicons.githubusercontent.com/newbinusmaya.binus.ac.id",
     "slug": "binusmaya-learning-management-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 953,
-    "timeWeek": 383,
-    "timeMonth": 304,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 226,
+    "timeDay": 947,
+    "timeWeek": 453,
+    "timeMonth": 325,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-05-30": 1
+      "2022-05-30": 26
     }
   },
   {

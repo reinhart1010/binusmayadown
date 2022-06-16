@@ -23,8 +23,6 @@ sites:
     url: https://exam.apps.binus.ac.id
   - name: BINUSMAYA Exam - Multiple Choice
     url: https://socs1.binus.ac.id/tcexam/public/code/index.php
-  # - name: BINUSMAYA Myclass
-  #   url: https://myclass.apps.binus.ac.id
   - name: BINUSMAYA CDN (newcontent.binus.ac.id)
     url: https://newcontent.binus.ac.id
     expectedStatusCodes:
@@ -70,6 +68,10 @@ sites:
     url: https://developeracademy.apps.binus.ac.id
   - name: Research Apps
     url: https://research.apps.binus.ac.id
+  - name: Student Certification Apps
+    url: http://studentcertification.apps.binus.ac.id
+  - name: Thesis Apps
+    url: https://thesis.apps.binus.ac.id
   - name: BINUS Career
     url: https://binuscareer.com
   - name: BISANARA
@@ -86,6 +88,8 @@ sites:
     url: https://competition.binus.ac.id/contest/public
   - name: Scribees
     url: https://binus.ac.id/scribees/login/
+  - name: Collabees
+    url: https://dmd.binus.ac.id/collabees/
   - name: Vairbees (Virtual Expo)
     url: https://vairbees.binus.edu
   - name: BINUS Graduate Attribute Assessment Apps

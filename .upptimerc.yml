@@ -58,6 +58,8 @@ sites:
     __dangerous__insecure: true
   - name: BINUS Entrepreneurship (BEC) Apps
     url: https://entrepreneurship.apps.binus.ac.id
+  - name: Teach For Indonesia (TFI) APPS
+    url: https://tfi.apps.binus.ac.id/
   - name: Enrichment Apps
     url: https://enrichment.apps.binus.ac.id
   - name: Activity Enrichment Apps

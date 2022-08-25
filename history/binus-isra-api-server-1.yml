@@ -1,7 +1,7 @@
 url: https://qmc.apps.binus.ac.id/api/v1/loadSetting
-status: down
-code: 500
-responseTime: 4847
-lastUpdated: 2022-08-25T01:20:42.665Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2022-08-25T03:47:51.713Z
 startTime: Thu Jan 20 2022 15:14:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

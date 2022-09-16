@@ -4,18 +4,19 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://favicons.githubusercontent.com/binusmaya.binus.ac.id",
     "slug": "binusmaya-academic-services",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.02%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "97.99%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 1015,
-    "timeDay": 1699,
-    "timeWeek": 1028,
+    "timeDay": 1395,
+    "timeWeek": 1036,
     "timeMonth": 1012,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2022-09-16": 2,
       "2022-09-15": 37,
       "2022-09-14": 19,
       "2022-09-13": 34,
@@ -75,8 +76,7 @@
       "2022-06-29": 20,
       "2022-06-26": 37,
       "2022-06-25": 18,
-      "2022-06-24": 55,
-      "2022-06-23": 20
+      "2022-06-24": 55
     }
   },
   {

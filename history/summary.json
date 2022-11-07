@@ -114,7 +114,7 @@
     "status": "up",
     "uptime": "97.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "44.39%",
+    "uptimeWeek": "44.59%",
     "uptimeMonth": "74.31%",
     "uptimeYear": "97.20%",
     "time": 1239,
@@ -560,13 +560,13 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.04%",
     "time": 4513,
     "timeDay": 4787,
-    "timeWeek": 4834,
-    "timeMonth": 6746,
+    "timeWeek": 4738,
+    "timeMonth": 6535,
     "timeYear": 4513,
     "dailyMinutesDown": {
       "2022-11-04": 42,
@@ -615,7 +615,7 @@
     "time": 2664,
     "timeDay": 1792,
     "timeWeek": 1719,
-    "timeMonth": 1696,
+    "timeMonth": 1689,
     "timeYear": 2664,
     "dailyMinutesDown": {
       "2022-10-27": 328,
@@ -648,11 +648,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cx.apps.binus.ac.id.ico",
     "slug": "binus-cx-class-e-xtension",
     "status": "up",
-    "uptime": "65.35%",
+    "uptime": "65.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "65.35%",
+    "uptimeYear": "65.36%",
     "time": 2448,
     "timeDay": 1476,
     "timeWeek": 1780,
@@ -759,7 +759,7 @@
     "time": 1478,
     "timeDay": 3806,
     "timeWeek": 2495,
-    "timeMonth": 2724,
+    "timeMonth": 2691,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2022-11-04": 42,
@@ -804,7 +804,7 @@
     "time": 1432,
     "timeDay": 1270,
     "timeWeek": 1245,
-    "timeMonth": 1284,
+    "timeMonth": 1286,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2022-10-15": 26,
@@ -835,7 +835,7 @@
     "time": 924,
     "timeDay": 987,
     "timeWeek": 949,
-    "timeMonth": 918,
+    "timeMonth": 917,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2022-08-18": 54
@@ -855,7 +855,7 @@
     "time": 1167,
     "timeDay": 1272,
     "timeWeek": 1171,
-    "timeMonth": 1190,
+    "timeMonth": 1182,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2022-02-21": 27
@@ -875,7 +875,7 @@
     "time": 1057,
     "timeDay": 155,
     "timeWeek": 237,
-    "timeMonth": 217,
+    "timeMonth": 219,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2022-08-02": 15,
@@ -900,7 +900,7 @@
     "time": 1396,
     "timeDay": 3820,
     "timeWeek": 1785,
-    "timeMonth": 2175,
+    "timeMonth": 2104,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2022-11-04": 41,
@@ -924,7 +924,7 @@
     "time": 1552,
     "timeDay": 4114,
     "timeWeek": 1775,
-    "timeMonth": 2391,
+    "timeMonth": 2329,
     "timeYear": 1552,
     "dailyMinutesDown": {
       "2022-11-04": 40,
@@ -948,7 +948,7 @@
     "time": 889,
     "timeDay": 991,
     "timeWeek": 931,
-    "timeMonth": 918,
+    "timeMonth": 892,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2022-07-13": 19
@@ -959,19 +959,19 @@
     "url": "https://binuscareer.com",
     "icon": "https://icons.duckduckgo.com/ip3/binuscareer.com.ico",
     "slug": "binus-career",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.36%",
-    "time": 2119,
-    "timeDay": 0,
-    "timeWeek": 2999,
-    "timeMonth": 2468,
-    "timeYear": 2119,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.35%",
+    "time": 2120,
+    "timeDay": 2366,
+    "timeWeek": 2928,
+    "timeMonth": 2354,
+    "timeYear": 2120,
     "dailyMinutesDown": {
-      "2022-11-07": 1,
+      "2022-11-07": 20,
       "2022-11-04": 40,
       "2022-10-28": 32,
       "2022-10-26": 17,
@@ -1002,7 +1002,7 @@
     "time": 7031,
     "timeDay": 3925,
     "timeWeek": 4089,
-    "timeMonth": 4089,
+    "timeMonth": 4085,
     "timeYear": 7031,
     "dailyMinutesDown": {
       "2022-11-04": 39,
@@ -1054,7 +1054,7 @@
     "time": 1605,
     "timeDay": 4949,
     "timeWeek": 2463,
-    "timeMonth": 1646,
+    "timeMonth": 1643,
     "timeYear": 1605,
     "dailyMinutesDown": {
       "2022-11-04": 26,
@@ -1097,7 +1097,7 @@
     "time": 1939,
     "timeDay": 1972,
     "timeWeek": 2029,
-    "timeMonth": 1976,
+    "timeMonth": 1962,
     "timeYear": 1939,
     "dailyMinutesDown": {
       "2022-11-04": 26,
@@ -1118,7 +1118,7 @@
     "time": 1206,
     "timeDay": 1295,
     "timeWeek": 1212,
-    "timeMonth": 1194,
+    "timeMonth": 1192,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2022-11-04": 25,
@@ -1141,7 +1141,7 @@
     "time": 7034,
     "timeDay": 2703,
     "timeWeek": 2932,
-    "timeMonth": 7270,
+    "timeMonth": 6926,
     "timeYear": 7034,
     "dailyMinutesDown": {}
   },
@@ -1159,7 +1159,7 @@
     "time": 1335,
     "timeDay": 1449,
     "timeWeek": 1334,
-    "timeMonth": 1272,
+    "timeMonth": 1253,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2022-11-04": 24,
@@ -1192,7 +1192,7 @@
     "time": 1648,
     "timeDay": 2463,
     "timeWeek": 1771,
-    "timeMonth": 2114,
+    "timeMonth": 2107,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2022-11-04": 24
@@ -1212,7 +1212,7 @@
     "time": 2102,
     "timeDay": 2291,
     "timeWeek": 2229,
-    "timeMonth": 2054,
+    "timeMonth": 2053,
     "timeYear": 2102,
     "dailyMinutesDown": {}
   },
@@ -1230,7 +1230,7 @@
     "time": 939,
     "timeDay": 1020,
     "timeWeek": 954,
-    "timeMonth": 926,
+    "timeMonth": 925,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2022-05-31": 50
@@ -1250,7 +1250,7 @@
     "time": 1003,
     "timeDay": 1045,
     "timeWeek": 1065,
-    "timeMonth": 974,
+    "timeMonth": 973,
     "timeYear": 1003,
     "dailyMinutesDown": {}
   },
@@ -1268,7 +1268,7 @@
     "time": 432,
     "timeDay": 244,
     "timeWeek": 240,
-    "timeMonth": 242,
+    "timeMonth": 241,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2022-11-04": 23,
@@ -1300,7 +1300,7 @@
     "time": 726,
     "timeDay": 762,
     "timeWeek": 784,
-    "timeMonth": 721,
+    "timeMonth": 720,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2022-11-04": 22,

@@ -6,9 +6,9 @@
     "slug": "binusmaya-academic-services",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.61%",
     "time": 1009,
     "timeDay": 961,
@@ -16,7 +16,6 @@
     "timeMonth": 989,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2022-12-23": 10,
       "2022-12-22": 34,
       "2022-12-21": 52,
       "2022-12-18": 36,
@@ -83,7 +82,8 @@
       "2022-09-30": 41,
       "2022-09-29": 50,
       "2022-09-28": 44,
-      "2022-09-27": 22
+      "2022-09-27": 22,
+      "2022-09-26": 23
     }
   },
   {
@@ -1084,10 +1084,10 @@
     "url": "http://blog.binusian.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.binusian.org.ico",
     "slug": "binusian-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 1546,
@@ -1096,6 +1096,7 @@
     "timeMonth": 1058,
     "timeYear": 1546,
     "dailyMinutesDown": {
+      "2022-12-23": 1,
       "2022-11-04": 26,
       "2022-10-23": 24,
       "2022-10-18": 49,

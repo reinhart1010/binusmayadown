@@ -1,7 +1,7 @@
 url: http://blog.binusian.org
-status: up
-code: 200
-responseTime: 1166
-lastUpdated: 2023-01-17T23:14:12.632Z
+status: down
+code: 500
+responseTime: 793
+lastUpdated: 2023-01-18T10:51:11.235Z
 startTime: Thu Mar 24 2022 04:08:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

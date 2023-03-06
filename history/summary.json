@@ -397,7 +397,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.73%",
     "time": 1696,
     "timeDay": 1932,
     "timeWeek": 1874,
@@ -433,8 +433,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
-      "2022-03-07": 1440,
-      "2022-03-06": 1440
+      "2022-03-07": 1440
     }
   },
   {
@@ -497,11 +496,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/labfacility.apps.binus.ac.id.ico",
     "slug": "laboratory-borrowing-labfacility-apps-binus-ac-id",
     "status": "up",
-    "uptime": "90.08%",
+    "uptime": "90.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "90.08%",
+    "uptimeYear": "90.09%",
     "time": 1290,
     "timeDay": 1126,
     "timeWeek": 1000,
@@ -705,7 +704,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.87%",
+    "uptimeYear": "93.88%",
     "time": 2226,
     "timeDay": 1798,
     "timeWeek": 1752,
@@ -743,8 +742,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
-      "2022-03-07": 1440,
-      "2022-03-06": 1440
+      "2022-03-07": 1440
     }
   },
   {
@@ -1199,7 +1197,7 @@
     "uptimeYear": "100.00%",
     "time": 10213,
     "timeDay": 20329,
-    "timeWeek": 25949,
+    "timeWeek": 25919,
     "timeMonth": 22904,
     "timeYear": 10213,
     "dailyMinutesDown": {}
@@ -1212,7 +1210,7 @@
     "status": "up",
     "uptime": "95.77%",
     "uptimeDay": "99.14%",
-    "uptimeWeek": "98.94%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "95.77%",
     "time": 1320,

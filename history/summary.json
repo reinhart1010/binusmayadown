@@ -4,10 +4,10 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/binusmaya.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "94.87%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "94.91%",
     "uptimeMonth": "96.26%",
     "uptimeYear": "99.67%",
     "time": 1020,
@@ -16,6 +16,7 @@
     "timeMonth": 1108,
     "timeYear": 1023,
     "dailyMinutesDown": {
+      "2023-03-19": 3,
       "2023-03-18": 37,
       "2023-03-16": 61,
       "2023-03-15": 18,
@@ -45,8 +46,7 @@
       "2023-02-19": 18,
       "2023-02-18": 38,
       "2023-02-17": 18,
-      "2023-02-16": 27,
-      "2023-02-15": 9
+      "2023-02-16": 27
     }
   },
   {
@@ -1149,7 +1149,7 @@
     "url": "https://competition.binus.ac.id/contest/public",
     "icon": "https://icons.duckduckgo.com/ip3/competition.binus.ac.id.ico",
     "slug": "competitive-programming-competitions-dom-judge-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

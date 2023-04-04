@@ -187,18 +187,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/socs1.binus.ac.id.ico",
     "slug": "binusmaya-exam-multiple-choice",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.85%",
-    "uptimeYear": "95.42%",
+    "uptimeMonth": "50.71%",
+    "uptimeYear": "95.41%",
     "time": 1262,
     "timeDay": 1235,
     "timeWeek": 1112,
     "timeMonth": 1112,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2023-04-03": 1427,
+      "2023-04-04": 51,
+      "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -1229,8 +1230,7 @@
       "2022-06-25": 18,
       "2022-06-22": 71,
       "2022-06-21": 99,
-      "2022-06-20": 166,
-      "2022-04-04": 70
+      "2022-06-20": 166
     }
   },
   {

@@ -4,10 +4,10 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/binusmaya.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "96.68%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "96.66%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "99.64%",
     "time": 1023,
@@ -16,7 +16,7 @@
     "timeMonth": 993,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-04-11": 18,
+      "2023-04-11": 19,
       "2023-04-10": 65,
       "2023-04-09": 143,
       "2023-04-08": 15,
@@ -47,7 +47,7 @@
       "2023-03-07": 50,
       "2023-03-06": 41,
       "2023-03-05": 18,
-      "2023-03-04": 27
+      "2023-03-04": 9
     }
   },
   {
@@ -191,7 +191,7 @@
     "status": "up",
     "uptime": "94.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.29%",
+    "uptimeWeek": "20.89%",
     "uptimeMonth": "31.64%",
     "uptimeYear": "93.82%",
     "time": 1260,
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/laboratory.binus.ac.id.ico",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "up",
-    "uptime": "89.28%",
+    "uptime": "89.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.50%",
@@ -1022,7 +1022,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bisanara.com.ico",
     "slug": "bisanara",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.74%",
@@ -1202,7 +1202,7 @@
     "time": 12266,
     "timeDay": 18772,
     "timeWeek": 17992,
-    "timeMonth": 22249,
+    "timeMonth": 21976,
     "timeYear": 12596,
     "dailyMinutesDown": {}
   },

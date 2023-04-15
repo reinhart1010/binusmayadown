@@ -1,7 +1,7 @@
 url: https://mobileapi.apps.binus.edu
-status: up
-code: 403
-responseTime: 801
-lastUpdated: 2023-04-13T23:12:09.567Z
+status: down
+code: 500
+responseTime: 830
+lastUpdated: 2023-04-15T16:49:09.725Z
 startTime: Fri Jan 07 2022 14:53:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

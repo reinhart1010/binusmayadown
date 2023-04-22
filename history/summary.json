@@ -4,10 +4,10 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/binusmaya.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.62%",
     "time": 1021,
@@ -16,6 +16,7 @@
     "timeMonth": 933,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2023-04-22": 1,
       "2023-04-18": 45,
       "2023-04-17": 9,
       "2023-04-13": 134,
@@ -46,7 +47,7 @@
       "2023-03-12": 421,
       "2023-03-11": 184,
       "2023-03-10": 32,
-      "2023-03-09": 37
+      "2023-03-09": 18
     }
   },
   {
@@ -195,7 +196,7 @@
     "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.20%",
+    "uptimeMonth": "38.52%",
     "uptimeYear": "93.82%",
     "time": 1258,
     "timeDay": 1254,
@@ -716,7 +717,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cx.apps.binus.ac.id.ico",
     "slug": "binus-cx-class-e-xtension",
     "status": "up",
-    "uptime": "79.93%",
+    "uptime": "79.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",

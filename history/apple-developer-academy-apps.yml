@@ -1,7 +1,7 @@
 url: https://developeracademy.apps.binus.ac.id
-status: up
-code: 200
-responseTime: 576
-lastUpdated: 2023-05-17T23:11:49.033Z
+status: down
+code: 429
+responseTime: 95
+lastUpdated: 2023-05-18T21:32:50.609Z
 startTime: Fri Jan 07 2022 14:17:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

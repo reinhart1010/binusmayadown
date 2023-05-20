@@ -1,7 +1,7 @@
 url: https://dmd.binus.ac.id/collabees/
-status: up
-code: 200
-responseTime: 1766
-lastUpdated: 2023-05-19T23:12:47.613Z
+status: down
+code: 500
+responseTime: 1109
+lastUpdated: 2023-05-20T21:42:55.893Z
 startTime: Thu Jun 16 2022 06:19:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

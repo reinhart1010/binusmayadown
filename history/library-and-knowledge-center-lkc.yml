@@ -1,7 +1,7 @@
 url: http://library.binus.ac.id
-status: up
-code: 200
-responseTime: 13388
-lastUpdated: 2023-06-05T01:43:42.231Z
+status: down
+code: 500
+responseTime: 5022
+lastUpdated: 2023-06-05T03:03:55.854Z
 startTime: Sat Mar 26 2022 12:07:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

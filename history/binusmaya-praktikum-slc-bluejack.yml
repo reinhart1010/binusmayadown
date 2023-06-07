@@ -1,7 +1,7 @@
 url: https://bluejack.binus.ac.id/binusmayalab/
-status: up
-code: 200
-responseTime: 1630
-lastUpdated: 2023-06-07T08:30:56.836Z
+status: down
+code: 502
+responseTime: 1056
+lastUpdated: 2023-06-07T08:49:08.668Z
 startTime: Fri Jan 07 2022 14:17:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -4,10 +4,10 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/binusmaya.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "96.07%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "96.06%",
     "uptimeMonth": "94.93%",
     "uptimeYear": "99.54%",
     "time": 1012,
@@ -16,7 +16,7 @@
     "timeMonth": 907,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2023-06-18": 9,
+      "2023-06-18": 10,
       "2023-06-17": 80,
       "2023-06-16": 79,
       "2023-06-15": 73,
@@ -48,7 +48,7 @@
       "2023-05-15": 26,
       "2023-05-13": 22,
       "2023-05-12": 70,
-      "2023-05-11": 43
+      "2023-05-11": 34
     }
   },
   {
@@ -909,7 +909,7 @@
     "timeMonth": 969,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2023-06-18": 1065,
+      "2023-06-18": 1075,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -1560,10 +1560,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "96.87%",
+    "uptime": "96.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.23%",
+    "uptimeMonth": "53.21%",
     "uptimeYear": "95.59%",
     "time": 706,
     "timeDay": 0,
@@ -1571,7 +1571,7 @@
     "timeMonth": 702,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2023-06-18": 1066,
+      "2023-06-18": 1075,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,

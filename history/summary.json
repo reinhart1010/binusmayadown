@@ -13,7 +13,7 @@
     "time": 1010,
     "timeDay": 0,
     "timeWeek": 869,
-    "timeMonth": 915,
+    "timeMonth": 916,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2023-07-05": 18,
@@ -68,8 +68,8 @@
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 301,
-    "timeYear": 421,
+    "timeMonth": 246,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2022-09-07": 77,
       "2022-09-05": 63
@@ -89,8 +89,8 @@
     "time": 1249,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1010,
-    "timeYear": 1266,
+    "timeMonth": 1020,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2023-06-07": 25,
       "2023-06-01": 907,
@@ -144,8 +144,8 @@
     "time": 1135,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1006,
-    "timeYear": 1152,
+    "timeMonth": 1016,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-06-07": 24,
       "2023-06-01": 908,
@@ -185,7 +185,7 @@
     "time": 945,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 997,
+    "timeMonth": 1006,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2023-06-30": 19,
@@ -200,7 +200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/socs1.binus.ac.id.ico",
     "slug": "binusmaya-exam-multiple-choice",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -208,7 +208,7 @@
     "time": 1263,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1300,
+    "timeMonth": 1326,
     "timeYear": 1277,
     "dailyMinutesDown": {
       "2023-06-07": 22,
@@ -269,7 +269,7 @@
     "time": 1140,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1085,
+    "timeMonth": 1091,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-06-07": 14,
@@ -309,8 +309,8 @@
     "time": 1085,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 964,
-    "timeYear": 1116,
+    "timeMonth": 987,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2023-01-25": 38
     }
@@ -329,7 +329,7 @@
     "time": 1304,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1253,
+    "timeMonth": 1264,
     "timeYear": 1292,
     "dailyMinutesDown": {}
   },
@@ -347,8 +347,8 @@
     "time": 1261,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1203,
-    "timeYear": 1272,
+    "timeMonth": 1219,
+    "timeYear": 1273,
     "dailyMinutesDown": {}
   },
   {
@@ -365,8 +365,8 @@
     "time": 6409,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 6144,
-    "timeYear": 6311,
+    "timeMonth": 6108,
+    "timeYear": 6310,
     "dailyMinutesDown": {
       "2023-06-23": 45,
       "2023-06-07": 11,
@@ -408,8 +408,8 @@
     "time": 1692,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1846,
-    "timeYear": 1748,
+    "timeMonth": 1884,
+    "timeYear": 1749,
     "dailyMinutesDown": {
       "2023-06-21": 28,
       "2023-06-07": 86,
@@ -458,8 +458,8 @@
     "time": 1842,
     "timeDay": 1545,
     "timeWeek": 1545,
-    "timeMonth": 2334,
-    "timeYear": 1963,
+    "timeMonth": 2381,
+    "timeYear": 1965,
     "dailyMinutesDown": {
       "2023-07-07": 13,
       "2023-06-26": 226,
@@ -510,8 +510,8 @@
     "time": 1808,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1321,
-    "timeYear": 1791,
+    "timeMonth": 1343,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2023-06-07": 33,
       "2023-06-05": 23,
@@ -562,8 +562,8 @@
     "time": 1334,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2258,
-    "timeYear": 1250,
+    "timeMonth": 2367,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2023-06-13": 8,
       "2023-06-07": 38,
@@ -627,18 +627,19 @@
     "url": "http://library.binus.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/library.binus.ac.id.ico",
     "slug": "library-and-knowledge-center-lkc",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "98.20%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "98.18%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "98.83%",
-    "time": 5440,
+    "uptimeYear": "98.87%",
+    "time": 5443,
     "timeDay": 5704,
     "timeWeek": 5331,
-    "timeMonth": 7532,
-    "timeYear": 5813,
+    "timeMonth": 7671,
+    "timeYear": 5818,
     "dailyMinutesDown": {
+      "2023-07-08": 1,
       "2023-07-07": 38,
       "2023-07-02": 144,
       "2023-06-29": 16,
@@ -707,7 +708,7 @@
       "2023-01-07": 189,
       "2022-12-31": 352,
       "2022-12-30": 256,
-      "2022-12-29": 203
+      "2022-12-29": 21
     }
   },
   {
@@ -724,8 +725,8 @@
     "time": 2399,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2061,
-    "timeYear": 2193,
+    "timeMonth": 2119,
+    "timeYear": 2191,
     "dailyMinutesDown": {
       "2023-05-17": 10,
       "2023-03-15": 10,
@@ -772,7 +773,7 @@
     "time": 2109,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2096,
+    "timeMonth": 2141,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2023-06-26": 14,
@@ -813,8 +814,8 @@
     "time": 1400,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1237,
-    "timeYear": 1461,
+    "timeMonth": 1241,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2023-06-07": 3,
       "2023-06-01": 923,
@@ -847,8 +848,8 @@
     "time": 701,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 768,
-    "timeYear": 699,
+    "timeMonth": 783,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-06-01": 912,
       "2023-05-31": 389,
@@ -878,8 +879,8 @@
     "time": 1798,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1753,
-    "timeYear": 1961,
+    "timeMonth": 1793,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2023-06-01": 913,
       "2023-05-31": 349,
@@ -911,18 +912,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity-enrichment.apps.binus.ac.id.ico",
     "slug": "activity-enrichment-apps",
     "status": "up",
-    "uptime": "87.45%",
+    "uptime": "87.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.91%",
+    "uptimeYear": "83.84%",
     "time": 1018,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 974,
-    "timeYear": 1043,
+    "timeMonth": 989,
+    "timeYear": 1044,
     "dailyMinutesDown": {
-      "2023-07-07": 1381,
+      "2023-07-08": 310,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1000,7 +1002,7 @@
     "time": 1152,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1152,
+    "timeMonth": 1173,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-02-08": 51
@@ -1020,7 +1022,7 @@
     "time": 552,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 467,
+    "timeMonth": 488,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2023-06-07": 9,
@@ -1045,8 +1047,8 @@
     "time": 1383,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1244,
-    "timeYear": 1435,
+    "timeMonth": 1261,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2023-06-01": 925,
       "2023-05-31": 388,
@@ -1078,8 +1080,8 @@
     "time": 1217,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1013,
-    "timeYear": 1232,
+    "timeMonth": 1028,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2023-06-01": 914,
       "2023-05-31": 387,
@@ -1111,7 +1113,7 @@
     "time": 888,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 925,
+    "timeMonth": 944,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2022-11-14": 62,
@@ -1132,8 +1134,8 @@
     "time": 2144,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2229,
-    "timeYear": 2163,
+    "timeMonth": 2246,
+    "timeYear": 2164,
     "dailyMinutesDown": {
       "2023-06-15": 9,
       "2023-06-12": 9,
@@ -1193,8 +1195,8 @@
     "time": 5916,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 4733,
-    "timeYear": 6219,
+    "timeMonth": 4731,
+    "timeYear": 6204,
     "dailyMinutesDown": {
       "2023-06-07": 118,
       "2023-06-06": 116,
@@ -1242,8 +1244,8 @@
     "time": 1054,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 955,
-    "timeYear": 1074,
+    "timeMonth": 966,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   },
   {
@@ -1260,8 +1262,8 @@
     "time": 2172,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1288,
-    "timeYear": 2281,
+    "timeMonth": 1308,
+    "timeYear": 2284,
     "dailyMinutesDown": {
       "2023-06-11": 8,
       "2023-06-01": 915,
@@ -1317,8 +1319,8 @@
     "time": 2245,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2462,
-    "timeYear": 2315,
+    "timeMonth": 2467,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2023-06-07": 118,
       "2023-06-06": 116,
@@ -1353,7 +1355,7 @@
     "time": 1221,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1211,
+    "timeMonth": 1226,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2023-06-01": 916,
@@ -1388,8 +1390,8 @@
     "time": 11862,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 3818,
-    "timeYear": 14001,
+    "timeMonth": 3852,
+    "timeYear": 14026,
     "dailyMinutesDown": {}
   },
   {
@@ -1406,8 +1408,8 @@
     "time": 1335,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1444,
-    "timeYear": 1292,
+    "timeMonth": 1451,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2023-06-15": 27,
       "2023-06-07": 118,
@@ -1474,8 +1476,8 @@
     "time": 1579,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1733,
-    "timeYear": 1597,
+    "timeMonth": 1727,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2023-06-01": 916,
       "2023-05-31": 382,
@@ -1504,8 +1506,8 @@
     "time": 1907,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1549,
-    "timeYear": 1822,
+    "timeMonth": 1542,
+    "timeYear": 1820,
     "dailyMinutesDown": {}
   },
   {
@@ -1522,7 +1524,7 @@
     "time": 920,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 913,
+    "timeMonth": 930,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -1540,8 +1542,8 @@
     "time": 976,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 987,
-    "timeYear": 940,
+    "timeMonth": 1002,
+    "timeYear": 941,
     "dailyMinutesDown": {}
   },
   {
@@ -1558,7 +1560,7 @@
     "time": 370,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 236,
+    "timeMonth": 240,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-06-01": 926,
@@ -1586,18 +1588,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "93.37%",
+    "uptime": "93.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.33%",
+    "uptimeYear": "90.26%",
     "time": 706,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2023-07-07": 1381,
+      "2023-07-08": 311,
+      "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,

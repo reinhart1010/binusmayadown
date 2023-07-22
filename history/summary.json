@@ -6,17 +6,17 @@
     "slug": "binusmaya-academic-services",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "91.26%",
-    "uptimeWeek": "95.75%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "95.74%",
     "uptimeMonth": "98.10%",
-    "uptimeYear": "99.75%",
-    "time": 1008,
-    "timeDay": 846,
-    "timeWeek": 893,
-    "timeMonth": 859,
+    "uptimeYear": "99.76%",
+    "time": 1007,
+    "timeDay": 827,
+    "timeWeek": 894,
+    "timeMonth": 860,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-07-22": 31,
+      "2023-07-22": 32,
       "2023-07-21": 126,
       "2023-07-20": 103,
       "2023-07-19": 28,
@@ -46,7 +46,7 @@
       "2023-06-15": 73,
       "2023-06-14": 18,
       "2023-06-13": 41,
-      "2023-06-12": 63
+      "2023-06-12": 35
     }
   },
   {
@@ -901,7 +901,7 @@
     "uptime": "86.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.97%",
+    "uptimeMonth": "29.01%",
     "uptimeYear": "82.31%",
     "time": 1016,
     "timeDay": 845,
@@ -1578,7 +1578,7 @@
     "timeMonth": 0,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2023-07-22": 249,
+      "2023-07-22": 267,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,

@@ -1487,19 +1487,19 @@
     "url": "https://vairbees.binus.edu",
     "icon": "https://icons.duckduckgo.com/ip3/vairbees.binus.edu.ico",
     "slug": "vairbees-virtual-expo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1916,
-    "timeDay": 1309,
-    "timeWeek": 2404,
-    "timeMonth": 2079,
+    "time": 1915,
+    "timeDay": 1521,
+    "timeWeek": 2320,
+    "timeMonth": 2068,
     "timeYear": 1832,
     "dailyMinutesDown": {
-      "2023-08-16": 1
+      "2023-08-16": 7
     }
   },
   {
@@ -1600,7 +1600,7 @@
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-08-16": 1058,
+      "2023-08-16": 1066,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,

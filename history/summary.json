@@ -1487,10 +1487,10 @@
     "url": "https://vairbees.binus.edu",
     "icon": "https://icons.duckduckgo.com/ip3/vairbees.binus.edu.ico",
     "slug": "vairbees-virtual-expo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1916,
@@ -1498,7 +1498,9 @@
     "timeWeek": 2404,
     "timeMonth": 2079,
     "timeYear": 1832,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-16": 1
+    }
   },
   {
     "name": "BINUS Graduate Attribute Assessment Apps",
@@ -1587,7 +1589,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "86.90%",
+    "uptime": "86.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1598,7 +1600,7 @@
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-08-16": 1048,
+      "2023-08-16": 1058,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,

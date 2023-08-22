@@ -4,18 +4,19 @@
     "url": "https://binusmaya.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/binusmaya.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "95.37%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 983,
-    "timeDay": 894,
-    "timeWeek": 908,
-    "timeMonth": 943,
+    "timeDay": 918,
+    "timeWeek": 913,
+    "timeMonth": 944,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2023-08-22": 1,
       "2023-08-21": 67,
       "2023-08-19": 57,
       "2023-08-18": 139,
@@ -39,8 +40,7 @@
       "2023-07-30": 39,
       "2023-07-29": 9,
       "2023-07-28": 18,
-      "2023-07-27": 94,
-      "2023-07-26": 9
+      "2023-07-27": 94
     }
   },
   {
@@ -337,7 +337,7 @@
     "timeDay": 997,
     "timeWeek": 1158,
     "timeMonth": 1137,
-    "timeYear": 1259,
+    "timeYear": 1258,
     "dailyMinutesDown": {}
   },
   {
@@ -427,8 +427,7 @@
       "2022-09-21": 72,
       "2022-09-19": 41,
       "2022-09-06": 169,
-      "2022-09-05": 18,
-      "2022-08-22": 36
+      "2022-09-05": 18
     }
   },
   {
@@ -479,8 +478,7 @@
       "2022-10-16": 126,
       "2022-09-21": 72,
       "2022-09-19": 41,
-      "2022-09-05": 17,
-      "2022-08-22": 35
+      "2022-09-05": 17
     }
   },
   {
@@ -529,8 +527,7 @@
       "2022-09-12": 1440,
       "2022-09-11": 1150,
       "2022-08-29": 46,
-      "2022-08-23": 115,
-      "2022-08-22": 78
+      "2022-08-23": 115
     }
   },
   {
@@ -1179,7 +1176,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 5882,
     "timeDay": 4442,
     "timeWeek": 4723,
@@ -1209,8 +1206,7 @@
       "2022-08-28": 709,
       "2022-08-25": 73,
       "2022-08-24": 388,
-      "2022-08-23": 16,
-      "2022-08-22": 41
+      "2022-08-23": 16
     }
   },
   {
@@ -1547,7 +1543,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.12%",
+    "uptimeYear": "99.13%",
     "time": 386,
     "timeDay": 210,
     "timeWeek": 236,
@@ -1579,8 +1575,7 @@
       "2022-11-04": 23,
       "2022-08-29": 404,
       "2022-08-28": 164,
-      "2022-08-25": 147,
-      "2022-08-22": 282
+      "2022-08-25": 147
     }
   },
   {
@@ -1589,18 +1584,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "86.11%",
+    "uptime": "86.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.02%",
+    "uptimeYear": "78.00%",
     "time": 705,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-08-21": 1394,
+      "2023-08-22": 27,
+      "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,

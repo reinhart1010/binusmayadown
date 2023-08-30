@@ -1,7 +1,7 @@
 url: https://bm5cdn.azureedge.net
-status: down
-code: 504
-responseTime: 20325
-lastUpdated: 2023-08-30T05:44:46.566Z
+status: up
+code: 400
+responseTime: 1074
+lastUpdated: 2023-08-30T05:52:46.980Z
 startTime: Sat Jan 08 2022 03:00:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

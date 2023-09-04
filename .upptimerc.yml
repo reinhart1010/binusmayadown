@@ -3,10 +3,14 @@ owner: reinhart1010 # Your GitHub organization or username, where this repositor
 repo: binusmayadown # The name of this repository
 
 sites:
+  - name: BINUSMAYA (Homepage)
+    url: https://binusmaya.binus.ac.id
   - name: BINUSMAYA (Academic Services)
-    url: https://binusmaya.binus.ac.id/LoginAD.php
+    url: https://acadservices.apps.binus.ac.id/LoginAD.php
   - name: BINUSMAYA (Learning Management System)
     url: https://newbinusmaya.binus.ac.id
+  - name: BINUSMAYA (Parent)
+    url: https://parent.binus.ac.id
   - name: BINUS Mobile (Server 1)
     url: https://mobileapi.apps.binus.edu
     expectedStatusCodes:
@@ -56,6 +60,10 @@ sites:
   - name: BINUS CX (Class eXtension)
     url: https://cx.apps.binus.ac.id
     __dangerous__insecure: true
+  - name: BINUS Store
+    url: https://binusstore.com
+  - name: BISANARA
+    url: https://bisanara.com
   - name: BINUS Entrepreneurship (BEC) Apps
     url: https://entrepreneurship.apps.binus.ac.id
   - name: Teach For Indonesia (TFI) APPS

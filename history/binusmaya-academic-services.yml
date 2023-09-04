@@ -1,7 +1,7 @@
 url: https://binusmaya.binus.ac.id/LoginAD.php
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2023-09-03T23:11:11.570Z
+status: down
+code: 500
+responseTime: 933
+lastUpdated: 2023-09-04T02:07:56.643Z
 startTime: Fri Jan 07 2022 14:16:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

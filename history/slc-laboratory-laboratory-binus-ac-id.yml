@@ -1,7 +1,7 @@
 url: https://laboratory.binus.ac.id/lab
-status: up
-code: 200
-responseTime: 1448
-lastUpdated: 2023-09-12T06:37:12.496Z
+status: down
+code: 502
+responseTime: 1344
+lastUpdated: 2023-09-12T07:20:24.309Z
 startTime: Fri Jan 07 2022 14:17:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

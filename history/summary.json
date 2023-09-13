@@ -22,7 +22,7 @@
     "url": "https://acadservices.apps.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/acadservices.apps.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1731,7 +1731,7 @@
     "timeMonth": 0,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-09-13": 264,
+      "2023-09-13": 274,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,

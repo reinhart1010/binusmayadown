@@ -1,7 +1,7 @@
 url: https://rlab.apps.binus.ac.id/
-status: up
-code: 200
-responseTime: 1469
-lastUpdated: 2023-09-22T23:11:15.536Z
+status: down
+code: 502
+responseTime: 10282
+lastUpdated: 2023-09-23T07:06:24.418Z
 startTime: Fri Jan 07 2022 14:17:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

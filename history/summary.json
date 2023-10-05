@@ -510,8 +510,8 @@
     "status": "down",
     "uptime": "90.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.99%",
-    "uptimeMonth": "71.45%",
+    "uptimeWeek": "65.89%",
+    "uptimeMonth": "71.43%",
     "uptimeYear": "96.52%",
     "time": 1938,
     "timeDay": 0,
@@ -519,7 +519,7 @@
     "timeMonth": 2061,
     "timeYear": 2060,
     "dailyMinutesDown": {
-      "2023-10-05": 1301,
+      "2023-10-05": 1310,
       "2023-10-04": 1440,
       "2023-10-03": 688,
       "2023-09-27": 335,
@@ -808,7 +808,7 @@
     "uptime": "94.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.03%",
+    "uptimeMonth": "35.01%",
     "uptimeYear": "90.84%",
     "time": 2217,
     "timeDay": 0,
@@ -816,7 +816,7 @@
     "timeMonth": 1051,
     "timeYear": 2041,
     "dailyMinutesDown": {
-      "2023-10-05": 1301,
+      "2023-10-05": 1310,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
@@ -1315,10 +1315,10 @@
     "url": "https://binuscareer.com",
     "icon": "https://icons.duckduckgo.com/ip3/binuscareer.com.ico",
     "slug": "binus-career",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "95.49%",
     "uptimeYear": "98.67%",
     "time": 2183,
@@ -1327,6 +1327,7 @@
     "timeMonth": 2418,
     "timeYear": 2223,
     "dailyMinutesDown": {
+      "2023-10-05": 2,
       "2023-10-03": 38,
       "2023-10-02": 8,
       "2023-10-01": 17,
@@ -1381,7 +1382,7 @@
       "2023-04-22": 41,
       "2023-04-17": 227,
       "2023-04-16": 317,
-      "2023-04-15": 189
+      "2023-04-15": 149
     }
   },
   {
@@ -1876,7 +1877,7 @@
     "timeMonth": 0,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-10-05": 1302,
+      "2023-10-05": 1311,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,

@@ -125,12 +125,12 @@
     "status": "up",
     "uptime": "98.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "96.66%",
     "time": 1377,
     "timeDay": 0,
-    "timeWeek": 2739,
+    "timeWeek": 2952,
     "timeMonth": 3326,
     "timeYear": 1485,
     "dailyMinutesDown": {
@@ -187,12 +187,12 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.14%",
     "time": 1212,
     "timeDay": 0,
-    "timeWeek": 2163,
+    "timeWeek": 2251,
     "timeMonth": 2447,
     "timeYear": 1263,
     "dailyMinutesDown": {
@@ -465,12 +465,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.53%",
-    "uptimeYear": "98.61%",
+    "uptimeYear": "98.62%",
     "time": 1900,
     "timeDay": 0,
     "timeWeek": 5633,
     "timeMonth": 3699,
-    "timeYear": 1904,
+    "timeYear": 1905,
     "dailyMinutesDown": {
       "2023-09-27": 336,
       "2023-09-25": 9,
@@ -513,8 +513,7 @@
       "2022-11-04": 44,
       "2022-10-28": 49,
       "2022-10-23": 164,
-      "2022-10-22": 754,
-      "2022-10-19": 43
+      "2022-10-22": 754
     }
   },
   {
@@ -523,18 +522,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/laboratory.binus.ac.id.ico",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "down",
-    "uptime": "88.84%",
+    "uptime": "88.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.39%",
+    "uptimeMonth": "29.20%",
     "uptimeYear": "92.98%",
     "time": 2005,
     "timeDay": 0,
     "timeWeek": 12786,
     "timeMonth": 3509,
-    "timeYear": 2063,
+    "timeYear": 2065,
     "dailyMinutesDown": {
-      "2023-10-18": 1404,
+      "2023-10-19": 44,
+      "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -597,8 +597,7 @@
       "2022-11-04": 43,
       "2022-10-28": 49,
       "2022-10-23": 164,
-      "2022-10-22": 753,
-      "2022-10-19": 43
+      "2022-10-22": 753
     }
   },
   {
@@ -611,12 +610,12 @@
     "uptimeDay": "98.47%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "98.12%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.59%",
     "time": 1967,
     "timeDay": 6053,
     "timeWeek": 4390,
     "timeMonth": 3554,
-    "timeYear": 2136,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2023-10-18": 22,
       "2023-10-17": 65,
@@ -661,8 +660,7 @@
       "2022-10-29": 563,
       "2022-10-28": 48,
       "2022-10-23": 362,
-      "2022-10-22": 752,
-      "2022-10-19": 208
+      "2022-10-22": 752
     }
   },
   {
@@ -673,7 +671,7 @@
     "status": "up",
     "uptime": "93.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.87%",
+    "uptimeWeek": "50.67%",
     "uptimeMonth": "86.97%",
     "uptimeYear": "89.67%",
     "time": 1359,
@@ -764,7 +762,7 @@
     "timeDay": 0,
     "timeWeek": 5951,
     "timeMonth": 6360,
-    "timeYear": 5759,
+    "timeYear": 5757,
     "dailyMinutesDown": {
       "2023-10-17": 10,
       "2023-10-16": 284,
@@ -838,7 +836,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
     "status": "down",
-    "uptime": "92.76%",
+    "uptime": "92.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -847,9 +845,10 @@
     "timeDay": 0,
     "timeWeek": 97,
     "timeMonth": 94,
-    "timeYear": 1997,
+    "timeYear": 1999,
     "dailyMinutesDown": {
-      "2023-10-18": 1404,
+      "2023-10-19": 45,
+      "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -903,8 +902,7 @@
       "2022-10-23": 1421,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -922,7 +920,7 @@
     "timeDay": 0,
     "timeWeek": 1665,
     "timeMonth": 1641,
-    "timeYear": 1708,
+    "timeYear": 1707,
     "dailyMinutesDown": {
       "2023-10-16": 9,
       "2023-08-28": 9,
@@ -953,11 +951,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/binusstore.com.ico",
     "slug": "binus-store",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 780,
     "timeDay": 0,
     "timeWeek": 806,
@@ -982,7 +980,7 @@
     "timeDay": 0,
     "timeWeek": 6547,
     "timeMonth": 6208,
-    "timeYear": 4782,
+    "timeYear": 4784,
     "dailyMinutesDown": {
       "2023-10-15": 8,
       "2023-10-14": 55,
@@ -1036,7 +1034,7 @@
     "timeDay": 0,
     "timeWeek": 1272,
     "timeMonth": 1733,
-    "timeYear": 1379,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2023-09-27": 457,
       "2023-09-26": 855,
@@ -1103,7 +1101,7 @@
     "timeDay": 0,
     "timeWeek": 1642,
     "timeMonth": 1933,
-    "timeYear": 2151,
+    "timeYear": 2152,
     "dailyMinutesDown": {
       "2023-10-14": 44,
       "2023-10-04": 9,
@@ -1144,7 +1142,7 @@
     "timeDay": 0,
     "timeWeek": 835,
     "timeMonth": 988,
-    "timeYear": 1065,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2023-09-29": 9,
       "2023-09-26": 18,
@@ -1279,7 +1277,7 @@
     "timeDay": 0,
     "timeWeek": 1163,
     "timeMonth": 2030,
-    "timeYear": 1423,
+    "timeYear": 1416,
     "dailyMinutesDown": {
       "2023-09-27": 414,
       "2023-09-26": 295,
@@ -1313,7 +1311,7 @@
     "timeDay": 0,
     "timeWeek": 4705,
     "timeMonth": 3592,
-    "timeYear": 1282,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2023-09-27": 1231,
       "2023-09-26": 1440,
@@ -1930,18 +1928,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "78.26%",
+    "uptime": "78.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.13%",
+    "uptimeYear": "62.11%",
     "time": 698,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-10-18": 1405,
+      "2023-10-19": 46,
+      "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,

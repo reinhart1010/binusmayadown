@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/parent.binus.ac.id.ico",
     "slug": "binusmaya-parent",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 1358,
     "timeDay": 2371,
     "timeWeek": 1526,
@@ -466,7 +466,7 @@
     "uptimeDay": "99.70%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.78%",
     "time": 1902,
     "timeDay": 1626,
     "timeWeek": 4291,
@@ -513,8 +513,7 @@
       "2022-12-23": 370,
       "2022-11-10": 19,
       "2022-11-04": 44,
-      "2022-10-28": 49,
-      "2022-10-23": 164
+      "2022-10-28": 49
     }
   },
   {
@@ -525,9 +524,9 @@
     "status": "up",
     "uptime": "88.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.02%",
-    "uptimeMonth": "34.37%",
-    "uptimeYear": "92.82%",
+    "uptimeWeek": "41.79%",
+    "uptimeMonth": "34.55%",
+    "uptimeYear": "92.84%",
     "time": 2022,
     "timeDay": 9004,
     "timeWeek": 6375,
@@ -597,8 +596,7 @@
       "2022-12-23": 370,
       "2022-11-10": 18,
       "2022-11-04": 43,
-      "2022-10-28": 49,
-      "2022-10-23": 164
+      "2022-10-28": 49
     }
   },
   {
@@ -611,7 +609,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "98.71%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 1986,
     "timeDay": 1201,
     "timeWeek": 4199,
@@ -660,8 +658,7 @@
       "2022-11-04": 43,
       "2022-10-30": 404,
       "2022-10-29": 563,
-      "2022-10-28": 48,
-      "2022-10-23": 362
+      "2022-10-28": 48
     }
   },
   {
@@ -848,7 +845,8 @@
     "timeMonth": 94,
     "timeYear": 1995,
     "dailyMinutesDown": {
-      "2023-10-22": 1407,
+      "2023-10-23": 45,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -902,8 +900,7 @@
       "2022-10-27": 328,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
-      "2022-10-24": 1353,
-      "2022-10-23": 1421
+      "2022-10-24": 1353
     }
   },
   {
@@ -1306,7 +1303,7 @@
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.97%",
+    "uptimeMonth": "84.14%",
     "uptimeYear": "97.97%",
     "time": 1357,
     "timeDay": 18339,
@@ -1362,7 +1359,7 @@
     "uptime": "99.24%",
     "uptimeDay": "96.75%",
     "uptimeWeek": "98.16%",
-    "uptimeMonth": "96.00%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "98.64%",
     "time": 2208,
     "timeDay": 6470,
@@ -1557,8 +1554,7 @@
       "2022-12-25": 488,
       "2022-12-24": 1440,
       "2022-12-23": 498,
-      "2022-11-04": 26,
-      "2022-10-23": 24
+      "2022-11-04": 26
     }
   },
   {
@@ -1676,7 +1672,7 @@
     "uptime": "97.17%",
     "uptimeDay": "99.21%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.04%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "95.54%",
     "time": 1414,
     "timeDay": 1207,
@@ -1931,18 +1927,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "77.77%",
+    "uptime": "77.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.03%",
+    "uptimeYear": "61.02%",
     "time": 698,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-10-22": 1408,
+      "2023-10-23": 47,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,

@@ -89,7 +89,7 @@
     "timeDay": 314,
     "timeWeek": 941,
     "timeMonth": 678,
-    "timeYear": 393,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -134,7 +134,7 @@
     "timeDay": 8252,
     "timeWeek": 2945,
     "timeMonth": 3276,
-    "timeYear": 1444,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2023-10-15": 18,
       "2023-10-14": 46,
@@ -191,7 +191,7 @@
     "timeDay": 9757,
     "timeWeek": 3625,
     "timeMonth": 2711,
-    "timeYear": 1324,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2023-10-13": 12,
       "2023-10-11": 35,
@@ -250,19 +250,19 @@
     "url": "https://socs1.binus.ac.id/tcexam/public/code/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/socs1.binus.ac.id.ico",
     "slug": "binusmaya-exam-multiple-choice",
-    "status": "down",
+    "status": "up",
     "uptime": "95.77%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "93.31%",
-    "time": 1399,
-    "timeDay": 0,
-    "timeWeek": 2938,
-    "timeMonth": 2652,
-    "timeYear": 1408,
+    "time": 1407,
+    "timeDay": 4962,
+    "timeWeek": 3227,
+    "timeMonth": 2745,
+    "timeYear": 1416,
     "dailyMinutesDown": {
-      "2023-10-30": 4,
+      "2023-10-30": 10,
       "2023-09-27": 348,
       "2023-09-22": 73,
       "2023-09-07": 9,
@@ -323,7 +323,7 @@
     "timeDay": 6388,
     "timeWeek": 3189,
     "timeMonth": 2467,
-    "timeYear": 1309,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2023-09-27": 339,
       "2023-09-22": 13,
@@ -401,7 +401,7 @@
     "timeDay": 1351,
     "timeWeek": 1477,
     "timeMonth": 1531,
-    "timeYear": 1206,
+    "timeYear": 1205,
     "dailyMinutesDown": {}
   },
   {
@@ -419,7 +419,7 @@
     "timeDay": 7489,
     "timeWeek": 9359,
     "timeMonth": 9838,
-    "timeYear": 6517,
+    "timeYear": 6516,
     "dailyMinutesDown": {
       "2023-10-27": 182,
       "2023-10-23": 10,
@@ -461,9 +461,9 @@
     "slug": "binusmaya-praktikum-slc-bluejack",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "61.22%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "60.69%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.70%",
     "time": 1936,
     "timeDay": 0,
@@ -471,7 +471,7 @@
     "timeMonth": 4284,
     "timeYear": 1890,
     "dailyMinutesDown": {
-      "2023-10-30": 558,
+      "2023-10-30": 566,
       "2023-10-26": 10,
       "2023-10-22": 4,
       "2023-09-27": 336,
@@ -522,17 +522,17 @@
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "down",
     "uptime": "88.81%",
-    "uptimeDay": "61.23%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "44.21%",
+    "uptimeDay": "60.70%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "44.19%",
     "uptimeYear": "92.76%",
     "time": 2115,
     "timeDay": 0,
     "timeWeek": 7643,
     "timeMonth": 6048,
-    "timeYear": 2101,
+    "timeYear": 2103,
     "dailyMinutesDown": {
-      "2023-10-30": 558,
+      "2023-10-30": 566,
       "2023-10-26": 10,
       "2023-10-20": 152,
       "2023-10-19": 1440,
@@ -614,7 +614,7 @@
     "timeDay": 4274,
     "timeWeek": 2325,
     "timeMonth": 3400,
-    "timeYear": 2021,
+    "timeYear": 2022,
     "dailyMinutesDown": {
       "2023-10-30": 17,
       "2023-10-20": 9,
@@ -674,7 +674,7 @@
     "timeDay": 7427,
     "timeWeek": 3192,
     "timeMonth": 2765,
-    "timeYear": 1457,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2023-10-17": 10,
       "2023-10-15": 687,
@@ -758,7 +758,7 @@
     "timeDay": 19475,
     "timeWeek": 7585,
     "timeMonth": 6462,
-    "timeYear": 5818,
+    "timeYear": 5822,
     "dailyMinutesDown": {
       "2023-10-23": 33,
       "2023-10-22": 21,
@@ -843,7 +843,7 @@
     "timeMonth": 103,
     "timeYear": 1949,
     "dailyMinutesDown": {
-      "2023-10-30": 1397,
+      "2023-10-30": 1404,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -919,7 +919,7 @@
     "timeDay": 2021,
     "timeWeek": 1783,
     "timeMonth": 1692,
-    "timeYear": 1706,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2023-10-16": 9,
       "2023-08-28": 9,
@@ -978,7 +978,7 @@
     "timeDay": 8243,
     "timeWeek": 6478,
     "timeMonth": 6538,
-    "timeYear": 4905,
+    "timeYear": 4908,
     "dailyMinutesDown": {
       "2023-10-15": 8,
       "2023-10-14": 55,
@@ -1031,7 +1031,7 @@
     "timeDay": 1477,
     "timeWeek": 1277,
     "timeMonth": 1410,
-    "timeYear": 1320,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-09-27": 457,
       "2023-09-26": 855,
@@ -1099,7 +1099,7 @@
     "timeDay": 1246,
     "timeWeek": 1503,
     "timeMonth": 1764,
-    "timeYear": 2171,
+    "timeYear": 2173,
     "dailyMinutesDown": {
       "2023-10-14": 44,
       "2023-10-04": 9,
@@ -1229,7 +1229,7 @@
     "timeDay": 1182,
     "timeWeek": 1080,
     "timeMonth": 1347,
-    "timeYear": 1214,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2023-10-16": 17,
       "2023-02-08": 51
@@ -1250,7 +1250,7 @@
     "timeDay": 296,
     "timeWeek": 449,
     "timeMonth": 493,
-    "timeYear": 428,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2023-08-16": 10,
       "2023-06-07": 9,
@@ -1275,7 +1275,7 @@
     "timeDay": 1497,
     "timeWeek": 1308,
     "timeMonth": 1286,
-    "timeYear": 1380,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2023-10-25": 9,
       "2023-09-27": 414,
@@ -1310,7 +1310,7 @@
     "timeDay": 992,
     "timeWeek": 3034,
     "timeMonth": 4743,
-    "timeYear": 1369,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2023-09-27": 1231,
       "2023-09-26": 1440,
@@ -1443,7 +1443,7 @@
     "timeDay": 8243,
     "timeWeek": 6478,
     "timeMonth": 6538,
-    "timeYear": 4905,
+    "timeYear": 4908,
     "dailyMinutesDown": {
       "2023-10-15": 8,
       "2023-10-14": 55,
@@ -1514,7 +1514,7 @@
     "timeDay": 2516,
     "timeWeek": 1750,
     "timeMonth": 4245,
-    "timeYear": 2609,
+    "timeYear": 2612,
     "dailyMinutesDown": {
       "2023-10-27": 44,
       "2023-10-05": 180,
@@ -1568,7 +1568,7 @@
     "timeDay": 9185,
     "timeWeek": 3739,
     "timeMonth": 3190,
-    "timeYear": 2551,
+    "timeYear": 2553,
     "dailyMinutesDown": {
       "2023-10-27": 9,
       "2023-10-15": 7,
@@ -1658,7 +1658,7 @@
     "timeDay": 307,
     "timeWeek": 478,
     "timeMonth": 1530,
-    "timeYear": 11888,
+    "timeYear": 11907,
     "dailyMinutesDown": {}
   },
   {
@@ -1676,7 +1676,7 @@
     "timeDay": 2465,
     "timeWeek": 1592,
     "timeMonth": 1934,
-    "timeYear": 1485,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2023-10-26": 36,
       "2023-10-22": 11,
@@ -1746,19 +1746,19 @@
     "url": "https://dmd.binus.ac.id/collabees/",
     "icon": "https://icons.duckduckgo.com/ip3/dmd.binus.ac.id.ico",
     "slug": "collabees",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.31%",
-    "time": 1688,
-    "timeDay": 0,
-    "timeWeek": 2503,
-    "timeMonth": 2716,
-    "timeYear": 1707,
+    "time": 1689,
+    "timeDay": 2260,
+    "timeWeek": 2468,
+    "timeMonth": 2698,
+    "timeYear": 1710,
     "dailyMinutesDown": {
-      "2023-10-30": 2,
+      "2023-10-30": 8,
       "2023-10-12": 27,
       "2023-09-27": 317,
       "2023-09-26": 16,
@@ -1793,7 +1793,7 @@
     "timeDay": 1427,
     "timeWeek": 1565,
     "timeMonth": 1535,
-    "timeYear": 1734,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2023-08-16": 7
     }
@@ -1849,7 +1849,7 @@
     "timeDay": 236,
     "timeWeek": 2275,
     "timeMonth": 1529,
-    "timeYear": 543,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-10-30": 20,
       "2023-10-27": 34,
@@ -1925,7 +1925,7 @@
     "timeMonth": 0,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2023-10-30": 1397,
+      "2023-10-30": 1405,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,

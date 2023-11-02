@@ -1,7 +1,7 @@
 url: https://competition.binus.ac.id/contest/public
-status: up
-code: 200
-responseTime: 307
-lastUpdated: 2023-10-30T23:15:06.465Z
+status: down
+code: 502
+responseTime: 187
+lastUpdated: 2023-11-02T06:10:26.561Z
 startTime: Sat Mar 26 2022 12:08:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

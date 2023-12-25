@@ -24,7 +24,7 @@
     "slug": "binusmaya-academic-services",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "13.50%",
+    "uptimeDay": "16.96%",
     "uptimeWeek": "83.04%",
     "uptimeMonth": "90.25%",
     "uptimeYear": "98.94%",
@@ -123,7 +123,7 @@
     "slug": "binusmaya-parent",
     "status": "up",
     "uptime": "98.10%",
-    "uptimeDay": "15.10%",
+    "uptimeDay": "18.56%",
     "uptimeWeek": "84.00%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "98.10%",
@@ -168,10 +168,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobileapi.apps.binus.edu.ico",
     "slug": "binus-mobile-server-1",
     "status": "down",
-    "uptime": "97.35%",
+    "uptime": "97.34%",
     "uptimeDay": "6.74%",
-    "uptimeWeek": "82.70%",
-    "uptimeMonth": "95.66%",
+    "uptimeWeek": "82.21%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "97.50%",
     "time": 1531,
     "timeDay": 2008,
@@ -179,7 +179,8 @@
     "timeMonth": 1654,
     "timeYear": 1482,
     "dailyMinutesDown": {
-      "2023-12-24": 1340,
+      "2023-12-25": 48,
+      "2023-12-24": 1343,
       "2023-12-23": 392,
       "2023-12-21": 11,
       "2023-12-01": 32,
@@ -217,8 +218,7 @@
       "2023-03-21": 18,
       "2023-03-15": 16,
       "2023-02-23": 9,
-      "2023-01-25": 42,
-      "2022-12-25": 105
+      "2023-01-25": 42
     }
   },
   {
@@ -228,10 +228,10 @@
     "slug": "binus-mobile-server-2",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "10.23%",
+    "uptimeDay": "13.69%",
     "uptimeWeek": "83.32%",
     "uptimeMonth": "95.86%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 1446,
     "timeDay": 29587,
     "timeWeek": 9391,
@@ -265,8 +265,7 @@
       "2023-03-30": 129,
       "2023-03-29": 214,
       "2023-03-21": 17,
-      "2023-01-25": 41,
-      "2022-12-25": 105
+      "2023-01-25": 41
     }
   },
   {
@@ -302,7 +301,7 @@
     "uptime": "94.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.68%",
+    "uptimeMonth": "66.57%",
     "uptimeYear": "90.38%",
     "time": 1477,
     "timeDay": 0,
@@ -310,7 +309,8 @@
     "timeMonth": 2025,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -367,8 +367,7 @@
       "2023-03-20": 1381,
       "2023-01-25": 40,
       "2023-01-18": 14,
-      "2022-12-27": 93,
-      "2022-12-25": 105
+      "2022-12-27": 93
     }
   },
   {
@@ -377,10 +376,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/newcontent.binus.ac.id.ico",
     "slug": "binusmaya-cdn-newcontent-binus-ac-id",
     "status": "down",
-    "uptime": "97.63%",
+    "uptime": "97.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.86%",
-    "uptimeMonth": "65.74%",
+    "uptimeWeek": "81.37%",
+    "uptimeMonth": "65.62%",
     "uptimeYear": "95.94%",
     "time": 1322,
     "timeDay": 0,
@@ -388,7 +387,8 @@
     "timeMonth": 1937,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 390,
       "2023-12-14": 310,
       "2023-12-13": 1440,
@@ -422,8 +422,7 @@
       "2023-04-15": 10,
       "2023-04-09": 109,
       "2023-01-25": 39,
-      "2022-12-26": 174,
-      "2022-12-25": 1440
+      "2022-12-26": 174
     }
   },
   {
@@ -492,8 +491,8 @@
     "status": "down",
     "uptime": "99.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "95.45%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "95.34%",
     "uptimeYear": "98.51%",
     "time": 6742,
     "timeDay": 0,
@@ -501,7 +500,8 @@
     "timeMonth": 8857,
     "timeYear": 6668,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 421,
       "2023-12-21": 7,
       "2023-12-14": 9,
@@ -535,8 +535,7 @@
       "2023-03-03": 51,
       "2023-02-25": 119,
       "2023-01-25": 39,
-      "2023-01-20": 8,
-      "2022-12-25": 317
+      "2023-01-20": 8
     }
   },
   {
@@ -545,10 +544,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluejack.binus.ac.id.ico",
     "slug": "binusmaya-praktikum-slc-bluejack",
     "status": "down",
-    "uptime": "98.06%",
+    "uptime": "98.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.33%",
-    "uptimeMonth": "78.98%",
+    "uptimeWeek": "80.84%",
+    "uptimeMonth": "78.87%",
     "uptimeYear": "96.76%",
     "time": 1963,
     "timeDay": 0,
@@ -556,7 +555,8 @@
     "timeMonth": 2327,
     "timeYear": 1991,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 389,
       "2023-12-21": 55,
       "2023-12-11": 1405,
@@ -608,8 +608,7 @@
       "2023-05-10": 86,
       "2023-04-22": 45,
       "2023-04-09": 220,
-      "2023-01-25": 39,
-      "2022-12-25": 107
+      "2023-01-25": 39
     }
   },
   {
@@ -618,10 +617,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/laboratory.binus.ac.id.ico",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
     "status": "down",
-    "uptime": "94.63%",
+    "uptime": "94.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.03%",
+    "uptimeMonth": "69.91%",
     "uptimeYear": "90.08%",
     "time": 2219,
     "timeDay": 0,
@@ -629,7 +628,8 @@
     "timeMonth": 2806,
     "timeYear": 2260,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -706,8 +706,7 @@
       "2023-04-22": 44,
       "2023-04-09": 220,
       "2023-01-25": 37,
-      "2023-01-13": 15,
-      "2022-12-25": 107
+      "2023-01-13": 15
     }
   },
   {
@@ -716,10 +715,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rlab.apps.binus.ac.id.ico",
     "slug": "slc-remote-lab-rlab-binus-ac-id",
     "status": "down",
-    "uptime": "97.78%",
+    "uptime": "97.77%",
     "uptimeDay": "1.59%",
-    "uptimeWeek": "69.99%",
-    "uptimeMonth": "92.84%",
+    "uptimeWeek": "69.50%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "98.25%",
     "time": 2068,
     "timeDay": 4647,
@@ -727,7 +726,8 @@
     "timeMonth": 1699,
     "timeYear": 2121,
     "dailyMinutesDown": {
-      "2023-12-24": 1415,
+      "2023-12-25": 48,
+      "2023-12-24": 1417,
       "2023-12-23": 360,
       "2023-12-22": 480,
       "2023-12-21": 770,
@@ -775,8 +775,7 @@
       "2023-04-09": 219,
       "2023-04-05": 36,
       "2023-02-07": 16,
-      "2023-01-25": 15,
-      "2022-12-25": 107
+      "2023-01-25": 15
     }
   },
   {
@@ -786,12 +785,12 @@
     "slug": "laboratory-borrowing-labfacility-apps-binus-ac-id",
     "status": "up",
     "uptime": "93.55%",
-    "uptimeDay": "99.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "89.47%",
+    "uptimeYear": "89.48%",
     "time": 1394,
-    "timeDay": 930,
+    "timeDay": 0,
     "timeWeek": 1710,
     "timeMonth": 1657,
     "timeYear": 1490,
@@ -860,8 +859,7 @@
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
-      "2022-12-26": 1440,
-      "2022-12-25": 1440
+      "2022-12-26": 1440
     }
   },
   {
@@ -870,18 +868,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/library.binus.ac.id.ico",
     "slug": "library-and-knowledge-center-lkc",
     "status": "down",
-    "uptime": "99.04%",
+    "uptime": "99.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.09%",
-    "uptimeMonth": "80.01%",
-    "uptimeYear": "98.32%",
+    "uptimeWeek": "77.60%",
+    "uptimeMonth": "79.90%",
+    "uptimeYear": "98.31%",
     "time": 6385,
     "timeDay": 0,
     "timeWeek": 9362,
     "timeMonth": 7579,
     "timeYear": 6563,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 417,
       "2023-12-22": 47,
       "2023-12-20": 8,
@@ -918,14 +917,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.58%",
+    "uptimeYear": "72.57%",
     "time": 1904,
     "timeDay": 0,
     "timeWeek": 144,
     "timeMonth": 106,
     "timeYear": 1782,
     "dailyMinutesDown": {
-      "2023-12-24": 1438,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1082,7 +1082,7 @@
     "slug": "binus-store",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "14.81%",
+    "uptimeDay": "18.25%",
     "uptimeWeek": "84.19%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "98.69%",
@@ -1109,10 +1109,10 @@
     "slug": "bisanara",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "14.80%",
+    "uptimeDay": "18.24%",
     "uptimeWeek": "67.24%",
     "uptimeMonth": "68.39%",
-    "uptimeYear": "96.82%",
+    "uptimeYear": "96.83%",
     "time": 4976,
     "timeDay": 1622,
     "timeWeek": 1903,
@@ -1173,8 +1173,7 @@
       "2023-04-09": 97,
       "2023-04-02": 9,
       "2023-03-30": 9,
-      "2023-02-23": 18,
-      "2022-12-25": 109
+      "2023-02-23": 18
     }
   },
   {
@@ -1184,7 +1183,7 @@
     "slug": "binus-entrepreneurship-bec-apps",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "11.93%",
+    "uptimeDay": "15.37%",
     "uptimeWeek": "83.80%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "99.10%",
@@ -1221,10 +1220,10 @@
     "slug": "teach-for-indonesia-tfi-apps",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "14.79%",
+    "uptimeDay": "18.23%",
     "uptimeWeek": "84.21%",
     "uptimeMonth": "96.15%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 747,
     "timeDay": 6979,
     "timeWeek": 2393,
@@ -1245,8 +1244,7 @@
       "2023-05-10": 54,
       "2023-04-22": 42,
       "2023-04-09": 99,
-      "2023-01-25": 34,
-      "2022-12-25": 108
+      "2023-01-25": 34
     }
   },
   {
@@ -1258,7 +1256,7 @@
     "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "83.26%",
+    "uptimeMonth": "83.37%",
     "uptimeYear": "93.35%",
     "time": 1992,
     "timeDay": 0,
@@ -1459,7 +1457,7 @@
     "slug": "research-apps",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "14.77%",
+    "uptimeDay": "18.20%",
     "uptimeWeek": "84.21%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.23%",
@@ -1497,16 +1495,17 @@
     "status": "down",
     "uptime": "98.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.90%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "81.41%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "97.94%",
     "time": 1618,
     "timeDay": 0,
     "timeWeek": 12114,
     "timeMonth": 5382,
     "timeYear": 1661,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 385,
       "2023-11-30": 74,
       "2023-11-28": 15,
@@ -1553,16 +1552,17 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.78%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "98.93%",
+    "uptimeWeek": "81.29%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "98.92%",
     "time": 2308,
     "timeDay": 0,
     "timeWeek": 3554,
     "timeMonth": 3195,
     "timeYear": 2376,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 48,
+      "2023-12-24": 1440,
       "2023-12-23": 374,
       "2023-12-21": 16,
       "2023-12-20": 8,
@@ -1636,10 +1636,10 @@
     "slug": "bisanara",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "14.84%",
+    "uptimeDay": "18.27%",
     "uptimeWeek": "67.24%",
     "uptimeMonth": "68.39%",
-    "uptimeYear": "96.82%",
+    "uptimeYear": "96.83%",
     "time": 4976,
     "timeDay": 1622,
     "timeWeek": 1903,
@@ -1700,8 +1700,7 @@
       "2023-04-09": 97,
       "2023-04-02": 9,
       "2023-03-30": 9,
-      "2023-02-23": 18,
-      "2022-12-25": 109
+      "2023-02-23": 18
     }
   },
   {
@@ -1730,8 +1729,8 @@
     "status": "down",
     "uptime": "97.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.93%",
-    "uptimeMonth": "94.94%",
+    "uptimeWeek": "81.44%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "98.02%",
     "time": 2447,
     "timeDay": 0,
@@ -1739,7 +1738,8 @@
     "timeMonth": 4794,
     "timeYear": 2951,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 49,
+      "2023-12-24": 1440,
       "2023-12-23": 382,
       "2023-12-13": 331,
       "2023-12-12": 17,
@@ -1778,8 +1778,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 818,
       "2022-12-30": 305,
-      "2022-12-29": 1053,
-      "2022-12-25": 488
+      "2022-12-29": 1053
     }
   },
   {
@@ -1790,16 +1789,17 @@
     "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.93%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "98.50%",
+    "uptimeWeek": "81.44%",
+    "uptimeMonth": "88.15%",
+    "uptimeYear": "98.49%",
     "time": 2424,
     "timeDay": 0,
     "timeWeek": 1890,
     "timeMonth": 1828,
     "timeYear": 2496,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 49,
+      "2023-12-24": 1440,
       "2023-12-23": 382,
       "2023-12-16": 74,
       "2023-12-15": 1,
@@ -1849,10 +1849,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/competition.binus.ac.id.ico",
     "slug": "competitive-programming-competitions-homepage",
     "status": "down",
-    "uptime": "98.88%",
+    "uptime": "98.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.94%",
-    "uptimeMonth": "95.13%",
+    "uptimeWeek": "81.45%",
+    "uptimeMonth": "95.02%",
     "uptimeYear": "98.43%",
     "time": 1371,
     "timeDay": 0,
@@ -1860,7 +1860,8 @@
     "timeMonth": 1396,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 49,
+      "2023-12-24": 1440,
       "2023-12-23": 381,
       "2023-12-06": 83,
       "2023-11-30": 151,
@@ -1891,8 +1892,7 @@
       "2023-04-09": 95,
       "2023-02-23": 11,
       "2023-01-25": 35,
-      "2022-12-27": 93,
-      "2022-12-25": 109
+      "2022-12-27": 93
     }
   },
   {
@@ -1920,7 +1920,7 @@
     "slug": "scribees",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "12.09%",
+    "uptimeDay": "15.52%",
     "uptimeWeek": "83.60%",
     "uptimeMonth": "95.32%",
     "uptimeYear": "98.60%",
@@ -2009,16 +2009,17 @@
     "status": "down",
     "uptime": "99.30%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.95%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "99.26%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "99.25%",
     "time": 1799,
     "timeDay": 0,
     "timeWeek": 2651,
     "timeMonth": 2881,
     "timeYear": 1874,
     "dailyMinutesDown": {
-      "2023-12-24": 1439,
+      "2023-12-25": 49,
+      "2023-12-24": 1440,
       "2023-12-23": 380,
       "2023-12-15": 10,
       "2023-11-30": 70,
@@ -2107,10 +2108,10 @@
     "slug": "binus-isra-api-server-1",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "11.76%",
+    "uptimeDay": "15.17%",
     "uptimeWeek": "83.52%",
     "uptimeMonth": "95.75%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 505,
     "timeDay": 201,
     "timeWeek": 794,
@@ -2191,8 +2192,7 @@
       "2023-04-22": 36,
       "2023-04-15": 17,
       "2023-04-13": 16,
-      "2023-04-09": 90,
-      "2022-12-25": 109
+      "2023-04-09": 90
     }
   },
   {
@@ -2212,6 +2212,7 @@
     "timeMonth": 0,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2023-12-25": 49,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -2419,8 +2420,7 @@
       "2023-05-31": 381,
       "2023-05-10": 38,
       "2023-04-22": 36,
-      "2023-04-09": 89,
-      "2022-12-25": 109
+      "2023-04-09": 89
     }
   }
 ]

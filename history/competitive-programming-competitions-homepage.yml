@@ -1,7 +1,7 @@
 url: https://competition.binus.ac.id/portal/
-status: up
-code: 200
-responseTime: 1142
-lastUpdated: 2024-01-01T23:13:06.775Z
+status: down
+code: 502
+responseTime: 1232
+lastUpdated: 2024-01-02T15:36:52.813Z
 startTime: Sat Mar 26 2022 12:08:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

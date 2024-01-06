@@ -797,7 +797,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "92.78%",
+    "uptimeYear": "92.79%",
     "time": 1505,
     "timeDay": 971,
     "timeWeek": 992,
@@ -866,19 +866,19 @@
     "url": "http://library.binus.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/library.binus.ac.id.ico",
     "slug": "library-and-knowledge-center-lkc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "44.00%",
-    "uptimeWeek": "74.20%",
+    "uptimeDay": "43.92%",
+    "uptimeWeek": "74.19%",
     "uptimeMonth": "79.79%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.18%",
     "time": 6466,
     "timeDay": 6060,
     "timeWeek": 9382,
     "timeMonth": 8227,
     "timeYear": 6263,
     "dailyMinutesDown": {
-      "2024-01-06": 168,
+      "2024-01-06": 169,
       "2024-01-05": 673,
       "2024-01-04": 601,
       "2024-01-03": 260,
@@ -907,7 +907,7 @@
       "2023-12-07": 17,
       "2023-12-06": 83,
       "2023-12-05": 276,
-      "2023-12-04": 390
+      "2023-12-04": 382
     }
   },
   {
@@ -927,7 +927,7 @@
     "timeMonth": 101,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2024-01-06": 209,
+      "2024-01-06": 228,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -2233,7 +2233,7 @@
     "timeMonth": 0,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-01-06": 210,
+      "2024-01-06": 229,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,

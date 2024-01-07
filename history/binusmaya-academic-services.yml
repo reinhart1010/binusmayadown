@@ -1,7 +1,7 @@
 url: https://acadservices.apps.binus.ac.id/LoginAD.php
-status: up
-code: 200
-responseTime: 965
-lastUpdated: 2024-01-06T23:11:48.287Z
+status: down
+code: 503
+responseTime: 617
+lastUpdated: 2024-01-07T04:57:21.059Z
 startTime: Fri Jan 07 2022 14:16:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

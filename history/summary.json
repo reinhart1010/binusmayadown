@@ -974,7 +974,7 @@
     "uptime": "93.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.27%",
+    "uptimeMonth": "63.25%",
     "uptimeYear": "93.61%",
     "time": 765,
     "timeDay": 685,
@@ -982,7 +982,7 @@
     "timeMonth": 789,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-03-20": 204,
+      "2024-03-20": 214,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -1722,7 +1722,7 @@
     "timeMonth": 891,
     "timeYear": 2320,
     "dailyMinutesDown": {
-      "2024-03-20": 205,
+      "2024-03-20": 214,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -1884,18 +1884,19 @@
     "url": "https://binus.ac.id/scribees/login/",
     "icon": "https://icons.duckduckgo.com/ip3/binus.ac.id.ico",
     "slug": "scribees",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.58%",
     "time": 1446,
     "timeDay": 1114,
     "timeWeek": 1203,
     "timeMonth": 1319,
     "timeYear": 1487,
     "dailyMinutesDown": {
+      "2024-03-20": 2,
       "2024-03-19": 8,
       "2024-03-14": 37,
       "2024-03-11": 9,
@@ -1973,7 +1974,7 @@
       "2023-05-10": 59,
       "2023-04-25": 9,
       "2023-04-22": 38,
-      "2023-04-17": 63
+      "2023-04-17": 55
     }
   },
   {
@@ -2193,7 +2194,7 @@
     "timeMonth": 0,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-03-20": 205,
+      "2024-03-20": 215,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,

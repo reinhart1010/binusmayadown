@@ -1,7 +1,7 @@
 url: https://activity-enrichment.apps.binus.ac.id
-status: up
-code: 200
-responseTime: 911
-lastUpdated: 2024-03-31T23:11:58.524Z
+status: down
+code: 503
+responseTime: 988
+lastUpdated: 2024-04-02T13:33:39.387Z
 startTime: Sat Mar 26 2022 17:24:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

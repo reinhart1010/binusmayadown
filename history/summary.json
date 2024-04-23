@@ -882,11 +882,11 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "79.48%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "95.74%",
+    "uptimeDay": "79.43%",
+    "uptimeWeek": "81.57%",
+    "uptimeMonth": "95.76%",
     "uptimeYear": "99.65%",
     "time": 271,
     "timeDay": 105,
@@ -894,12 +894,12 @@
     "timeMonth": 97,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-04-23": 57,
+      "2024-04-23": 58,
       "2024-04-22": 281,
       "2024-04-21": 526,
       "2024-04-20": 315,
       "2024-04-19": 346,
-      "2024-04-18": 341
+      "2024-04-18": 332
     }
   },
   {
@@ -950,7 +950,7 @@
     "timeMonth": 742,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-04-23": 329,
+      "2024-04-23": 339,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1694,7 +1694,7 @@
     "uptime": "92.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "67.37%",
+    "uptimeMonth": "67.39%",
     "uptimeYear": "84.53%",
     "time": 2286,
     "timeDay": 1173,
@@ -2082,7 +2082,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.04%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "98.38%",
     "time": 522,
     "timeDay": 195,
@@ -2186,7 +2186,7 @@
     "timeMonth": 0,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-04-23": 330,
+      "2024-04-23": 340,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,

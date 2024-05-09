@@ -890,23 +890,23 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "68.14%",
-    "uptimeWeek": "82.70%",
-    "uptimeMonth": "96.02%",
+    "uptimeDay": "68.78%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.67%",
     "time": 257,
-    "timeDay": 107,
+    "timeDay": 106,
     "timeWeek": 109,
     "timeMonth": 106,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-05-09": 436,
+      "2024-05-09": 437,
       "2024-05-08": 397,
       "2024-05-07": 409,
       "2024-05-06": 370,
-      "2024-05-05": 135
+      "2024-05-05": 120
     }
   },
   {
@@ -956,7 +956,7 @@
     "timeMonth": 701,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-09": 1407,
+      "2024-05-09": 1417,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -2214,7 +2214,7 @@
     "timeMonth": 0,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-05-09": 1408,
+      "2024-05-09": 1418,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,

@@ -112,7 +112,7 @@
     "slug": "binusmaya-parent",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "99.63%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.06%",
@@ -344,8 +344,7 @@
       "2023-06-07": 22,
       "2023-06-01": 922,
       "2023-05-31": 395,
-      "2023-05-30": 28,
-      "2023-05-11": 162
+      "2023-05-30": 28
     }
   },
   {
@@ -829,7 +828,7 @@
     "slug": "library-and-knowledge-center-lkc",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "96.15%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "96.95%",
@@ -890,11 +889,11 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "68.25%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "96.03%",
+    "uptimeDay": "72.26%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.67%",
     "time": 256,
     "timeDay": 105,
@@ -902,11 +901,12 @@
     "timeMonth": 106,
     "timeYear": 171,
     "dailyMinutesDown": {
+      "2024-05-10": 1,
       "2024-05-09": 445,
       "2024-05-08": 397,
       "2024-05-07": 409,
       "2024-05-06": 370,
-      "2024-05-05": 120
+      "2024-05-05": 111
     }
   },
   {
@@ -915,7 +915,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cx.apps.binus.ac.id.ico",
     "slug": "binus-cx-class-e-xtension",
     "status": "up",
-    "uptime": "89.85%",
+    "uptime": "89.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -935,8 +935,7 @@
       "2023-06-21": 24,
       "2023-05-23": 8,
       "2023-05-22": 8,
-      "2023-05-12": 16,
-      "2023-05-11": 8
+      "2023-05-12": 16
     }
   },
   {
@@ -945,18 +944,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/binusstore.com.ico",
     "slug": "binus-store",
     "status": "up",
-    "uptime": "74.47%",
+    "uptime": "74.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.47%",
+    "uptimeYear": "74.46%",
     "time": 757,
     "timeDay": 0,
     "timeWeek": 692,
     "timeMonth": 701,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-09": 1426,
+      "2024-05-10": 46,
+      "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -1320,8 +1320,7 @@
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
-      "2023-05-12": 1440,
-      "2023-05-11": 1440
+      "2023-05-12": 1440
     }
   },
   {
@@ -1476,7 +1475,7 @@
     "slug": "binus-career",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "96.12%",
+    "uptimeDay": "99.63%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.99%",
@@ -1718,7 +1717,7 @@
     "slug": "binus-youth-festival-by-fest",
     "status": "up",
     "uptime": "92.57%",
-    "uptimeDay": "96.12%",
+    "uptimeDay": "99.63%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "84.52%",
@@ -1877,8 +1876,7 @@
       "2023-09-01": 22,
       "2023-08-23": 13,
       "2023-06-01": 916,
-      "2023-05-31": 384,
-      "2023-05-11": 163
+      "2023-05-31": 384
     }
   },
   {
@@ -2207,14 +2205,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.71%",
+    "uptimeYear": "6.70%",
     "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-05-09": 1427,
+      "2024-05-10": 47,
+      "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,

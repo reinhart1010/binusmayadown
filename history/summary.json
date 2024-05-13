@@ -592,18 +592,19 @@
     "url": "https://laboratory.binus.ac.id/lab",
     "icon": "https://icons.duckduckgo.com/ip3/laboratory.binus.ac.id.ico",
     "slug": "slc-laboratory-laboratory-binus-ac-id",
-    "status": "up",
+    "status": "down",
     "uptime": "95.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "90.32%",
     "time": 2537,
-    "timeDay": 1550,
-    "timeWeek": 1718,
-    "timeMonth": 1889,
-    "timeYear": 2869,
+    "timeDay": 1434,
+    "timeWeek": 1651,
+    "timeMonth": 1868,
+    "timeYear": 2865,
     "dailyMinutesDown": {
+      "2024-05-13": 1,
       "2024-04-19": 14,
       "2024-04-01": 13,
       "2024-03-26": 8,
@@ -678,8 +679,7 @@
       "2023-06-07": 96,
       "2023-06-06": 63,
       "2023-06-05": 110,
-      "2023-06-04": 29,
-      "2023-06-02": 15
+      "2023-06-04": 29
     }
   },
   {
@@ -829,7 +829,7 @@
     "slug": "library-and-knowledge-center-lkc",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "62.20%",
+    "uptimeDay": "62.83%",
     "uptimeWeek": "66.28%",
     "uptimeMonth": "92.14%",
     "uptimeYear": "96.47%",
@@ -959,7 +959,7 @@
     "timeMonth": 709,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-13": 1171,
+      "2024-05-13": 1180,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -2215,7 +2215,7 @@
     "timeMonth": 0,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-05-13": 1172,
+      "2024-05-13": 1181,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,

@@ -24,10 +24,10 @@
     "url": "https://acadservices.apps.binus.ac.id/LoginAD.php",
     "icon": "https://icons.duckduckgo.com/ip3/acadservices.apps.binus.ac.id.ico",
     "slug": "binusmaya-academic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.28%",
     "time": 937,
@@ -36,7 +36,7 @@
     "timeMonth": 890,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2024-05-14": 64,
+      "2024-05-14": 65,
       "2024-05-13": 9,
       "2024-05-11": 7,
       "2024-05-08": 36,
@@ -84,7 +84,7 @@
       "2024-02-05": 88,
       "2024-02-04": 26,
       "2024-02-02": 114,
-      "2024-02-01": 20
+      "2024-02-01": 11
     }
   },
   {
@@ -894,7 +894,7 @@
     "slug": "great-nusa-com",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "76.36%",
+    "uptimeDay": "77.05%",
     "uptimeWeek": "83.17%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "99.68%",
@@ -959,7 +959,7 @@
     "timeMonth": 714,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-14": 581,
+      "2024-05-14": 591,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1251,7 +1251,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "83.44%",
+    "uptimeYear": "83.45%",
     "time": 1028,
     "timeDay": 961,
     "timeWeek": 932,
@@ -2217,7 +2217,7 @@
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-05-14": 581,
+      "2024-05-14": 592,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,

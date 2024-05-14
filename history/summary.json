@@ -891,23 +891,23 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "79.28%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "79.18%",
+    "uptimeWeek": "83.38%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "99.68%",
     "time": 245,
-    "timeDay": 109,
+    "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 106,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-05-14": 150,
+      "2024-05-14": 151,
       "2024-05-13": 417,
       "2024-05-12": 364,
       "2024-05-11": 439,
-      "2024-05-10": 323
+      "2024-05-10": 303
     }
   },
   {
@@ -958,7 +958,7 @@
     "timeMonth": 714,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-14": 677,
+      "2024-05-14": 686,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -2206,7 +2206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "58.95%",
+    "uptime": "58.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2217,7 +2217,7 @@
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-05-14": 678,
+      "2024-05-14": 687,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,

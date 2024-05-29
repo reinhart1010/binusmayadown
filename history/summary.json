@@ -296,8 +296,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/socs1.binus.ac.id.ico",
     "slug": "binusmaya-exam-multiple-choice",
     "status": "up",
-    "uptime": "94.92%",
-    "uptimeDay": "97.59%",
+    "uptime": "94.93%",
+    "uptimeDay": "98.13%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "95.36%",
@@ -976,8 +976,8 @@
     "status": "up",
     "uptime": "71.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "22.44%",
+    "uptimeWeek": "91.61%",
+    "uptimeMonth": "22.46%",
     "uptimeYear": "71.53%",
     "time": 755,
     "timeDay": 638,
@@ -1948,10 +1948,10 @@
     "url": "https://binus.ac.id/scribees/login/",
     "icon": "https://icons.duckduckgo.com/ip3/binus.ac.id.ico",
     "slug": "scribees",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.83%",
     "time": 1449,
@@ -1960,6 +1960,7 @@
     "timeMonth": 1352,
     "timeYear": 1478,
     "dailyMinutesDown": {
+      "2024-05-29": 2,
       "2024-05-28": 50,
       "2024-05-27": 5,
       "2024-05-22": 29,
@@ -2042,8 +2043,7 @@
       "2023-08-28": 9,
       "2023-08-25": 30,
       "2023-08-23": 12,
-      "2023-08-22": 7,
-      "2023-08-16": 8
+      "2023-08-22": 7
     }
   },
   {
@@ -2262,7 +2262,7 @@
     "timeMonth": 0,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-05-29": 222,
+      "2024-05-29": 231,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,

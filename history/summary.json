@@ -969,7 +969,7 @@
     "uptime": "72.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.37%",
+    "uptimeMonth": "36.40%",
     "uptimeYear": "72.08%",
     "time": 756,
     "timeDay": 709,
@@ -2124,11 +2124,11 @@
     "url": "https://qmc.apps.binus.ac.id/api/v1/loadSetting",
     "icon": "https://icons.duckduckgo.com/ip3/qmc.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "98.63%",
     "time": 534,
     "timeDay": 212,
@@ -2136,6 +2136,7 @@
     "timeMonth": 392,
     "timeYear": 604,
     "dailyMinutesDown": {
+      "2024-06-03": 3,
       "2024-05-28": 15,
       "2024-05-22": 38,
       "2024-05-16": 7,
@@ -2211,8 +2212,7 @@
       "2023-08-04": 7,
       "2023-08-03": 13,
       "2023-08-02": 16,
-      "2023-07-30": 8,
-      "2023-07-27": 13
+      "2023-07-30": 8
     }
   },
   {
@@ -2232,7 +2232,7 @@
     "timeMonth": 0,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-06-03": 564,
+      "2024-06-03": 575,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,

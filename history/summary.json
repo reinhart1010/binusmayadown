@@ -900,23 +900,24 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "72.92%",
-    "uptimeWeek": "82.45%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "99.66%",
+    "uptimeDay": "74.21%",
+    "uptimeWeek": "82.55%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "99.67%",
     "time": 181,
-    "timeDay": 90,
+    "timeDay": 88,
     "timeWeek": 91,
     "timeMonth": 98,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2024-06-08": 2,
       "2024-06-07": 391,
       "2024-06-06": 296,
       "2024-06-05": 343,
       "2024-06-04": 431,
-      "2024-06-03": 306
+      "2024-06-03": 295
     }
   },
   {
@@ -964,11 +965,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/binusstore.com.ico",
     "slug": "binus-store",
     "status": "up",
-    "uptime": "72.54%",
+    "uptime": "72.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.45%",
-    "uptimeYear": "72.54%",
+    "uptimeMonth": "51.62%",
+    "uptimeYear": "72.55%",
     "time": 756,
     "timeDay": 0,
     "timeWeek": 783,
@@ -1267,11 +1268,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/activity-enrichment.apps.binus.ac.id.ico",
     "slug": "activity-enrichment-apps",
     "status": "up",
-    "uptime": "91.96%",
+    "uptime": "91.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "90.17%",
+    "uptimeYear": "90.19%",
     "time": 1030,
     "timeDay": 0,
     "timeWeek": 973,
@@ -1319,8 +1320,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -2215,7 +2215,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-07": 1409,
+      "2024-06-08": 43,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -2578,8 +2579,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   }
 ]

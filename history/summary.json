@@ -852,7 +852,7 @@
     "time": 6389,
     "timeDay": 2283,
     "timeWeek": 2889,
-    "timeMonth": 3081,
+    "timeMonth": 3091,
     "timeYear": 6572,
     "dailyMinutesDown": {
       "2024-06-14": 193,
@@ -919,23 +919,24 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "67.55%",
-    "uptimeWeek": "80.10%",
-    "uptimeMonth": "95.42%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "70.96%",
+    "uptimeWeek": "80.30%",
+    "uptimeMonth": "95.47%",
     "uptimeYear": "99.62%",
-    "time": 195,
+    "time": 194,
     "timeDay": 83,
     "timeWeek": 91,
     "timeMonth": 93,
     "timeYear": 135,
     "dailyMinutesDown": {
+      "2024-06-16": 2,
       "2024-06-15": 460,
       "2024-06-14": 524,
       "2024-06-13": 410,
       "2024-06-12": 351,
-      "2024-06-11": 260
+      "2024-06-11": 238
     }
   },
   {
@@ -987,11 +988,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/binusstore.com.ico",
     "slug": "binus-store",
     "status": "up",
-    "uptime": "73.18%",
+    "uptime": "73.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.72%",
-    "uptimeMonth": "76.60%",
-    "uptimeYear": "73.18%",
+    "uptimeMonth": "76.71%",
+    "uptimeYear": "73.19%",
     "time": 753,
     "timeDay": 612,
     "timeWeek": 690,
@@ -1303,7 +1304,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "92.37%",
+    "uptimeYear": "92.38%",
     "time": 1031,
     "timeDay": 771,
     "timeWeek": 915,
@@ -1343,8 +1344,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   },
   {
@@ -1505,7 +1505,7 @@
     "time": 2202,
     "timeDay": 1112,
     "timeWeek": 1308,
-    "timeMonth": 1423,
+    "timeMonth": 1421,
     "timeYear": 2175,
     "dailyMinutesDown": {
       "2024-06-14": 196,
@@ -1750,7 +1750,7 @@
     "time": 2111,
     "timeDay": 1163,
     "timeWeek": 1345,
-    "timeMonth": 1425,
+    "timeMonth": 1429,
     "timeYear": 1934,
     "dailyMinutesDown": {
       "2024-06-14": 192,
@@ -1941,12 +1941,12 @@
     "uptime": "99.44%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "94.96%",
-    "uptimeMonth": "97.98%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "98.74%",
     "time": 1452,
     "timeDay": 1163,
     "timeWeek": 1299,
-    "timeMonth": 1380,
+    "timeMonth": 1382,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2024-06-15": 18,
@@ -2243,7 +2243,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 1436,
+      "2024-06-16": 47,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -2606,8 +2607,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   }
 ]

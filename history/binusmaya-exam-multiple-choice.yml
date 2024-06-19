@@ -1,7 +1,7 @@
 url: https://socs1.binus.ac.id/tcexam/public/code/index.php
-status: up
-code: 200
-responseTime: 1093
-lastUpdated: 2024-06-18T23:13:53.654Z
+status: down
+code: 502
+responseTime: 2081
+lastUpdated: 2024-06-19T05:57:53.852Z
 startTime: Sat Mar 26 2022 12:07:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

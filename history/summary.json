@@ -950,9 +950,9 @@
     "slug": "great-nusa-com",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "75.64%",
-    "uptimeWeek": "83.42%",
-    "uptimeMonth": "96.19%",
+    "uptimeDay": "73.79%",
+    "uptimeWeek": "83.16%",
+    "uptimeMonth": "96.12%",
     "uptimeYear": "99.68%",
     "time": 182,
     "timeDay": 84,
@@ -960,7 +960,7 @@
     "timeMonth": 90,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-06-25": 259,
+      "2024-06-25": 286,
       "2024-06-24": 330,
       "2024-06-23": 241,
       "2024-06-22": 429,
@@ -2177,10 +2177,10 @@
     "url": "https://qmc.apps.binus.ac.id/api/v1/loadSetting",
     "icon": "https://icons.duckduckgo.com/ip3/qmc.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "93.14%",
+    "uptimeDay": "85.10%",
+    "uptimeWeek": "93.12%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "98.57%",
     "time": 504,
@@ -2189,7 +2189,7 @@
     "timeMonth": 499,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-06-25": 206,
+      "2024-06-25": 208,
       "2024-06-24": 183,
       "2024-06-23": 146,
       "2024-06-22": 102,
@@ -2231,8 +2231,7 @@
       "2023-11-05": 16,
       "2023-11-03": 19,
       "2023-11-01": 25,
-      "2023-10-30": 20,
-      "2023-10-27": 8
+      "2023-10-30": 20
     }
   },
   {
@@ -2252,7 +2251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 1145,
+      "2024-06-25": 1171,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,

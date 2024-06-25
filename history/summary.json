@@ -2178,11 +2178,11 @@
     "url": "https://qmc.apps.binus.ac.id/api/v1/loadSetting",
     "icon": "https://icons.duckduckgo.com/ip3/qmc.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "84.32%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "98.57%",
     "time": 544,
     "timeDay": 731,
@@ -2190,7 +2190,7 @@
     "timeMonth": 494,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-06-25": 174,
+      "2024-06-25": 177,
       "2024-06-24": 183,
       "2024-06-23": 146,
       "2024-06-22": 102,
@@ -2234,8 +2234,7 @@
       "2023-11-01": 25,
       "2023-10-30": 20,
       "2023-10-27": 34,
-      "2023-10-21": 12,
-      "2023-10-17": 8
+      "2023-10-21": 12
     }
   },
   {
@@ -2244,7 +2243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qmcapi2.apps.binus.ac.id.ico",
     "slug": "binus-isra-api-server-2",
     "status": "down",
-    "uptime": "56.15%",
+    "uptime": "56.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2255,7 +2254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 859,
+      "2024-06-25": 877,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,

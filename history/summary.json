@@ -949,11 +949,11 @@
     "url": "https://greatnusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/greatnusa.com.ico",
     "slug": "great-nusa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "77.51%",
-    "uptimeWeek": "83.21%",
-    "uptimeMonth": "96.14%",
+    "uptimeDay": "77.41%",
+    "uptimeWeek": "83.28%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.68%",
     "time": 169,
     "timeDay": 86,
@@ -961,12 +961,12 @@
     "timeMonth": 90,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-06-26": 55,
+      "2024-06-26": 56,
       "2024-06-25": 367,
       "2024-06-24": 330,
       "2024-06-23": 241,
       "2024-06-22": 429,
-      "2024-06-21": 272
+      "2024-06-21": 263
     }
   },
   {
@@ -1713,9 +1713,9 @@
     "slug": "binusian-blog",
     "status": "down",
     "uptime": "97.77%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "96.84%",
     "time": 2278,
     "timeDay": 1922,
@@ -1723,7 +1723,7 @@
     "timeMonth": 2203,
     "timeYear": 2367,
     "dailyMinutesDown": {
-      "2024-06-26": 76,
+      "2024-06-26": 85,
       "2024-06-16": 19,
       "2024-06-14": 184,
       "2024-06-13": 321,
@@ -2251,7 +2251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 582,
+      "2024-06-26": 590,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
